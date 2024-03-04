@@ -8,3 +8,4 @@ RCA (Revealed comparative advantage) of the summary descriptions of the occupati
 # data
 comp_rectrab -> Is a database with all CBO occupations (4 digits) that has computer as a job resource. 
 perfil_ocupacional -> Is a database from basedosdados.org with summary descriptions of all CBO occupations. 
+onetstem_cbo -> Is a conversion database from SOC 18 to CBO 2002, a brasilian classification of occupations.
