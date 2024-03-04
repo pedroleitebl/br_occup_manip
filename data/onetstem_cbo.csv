@@ -1,0 +1,1017 @@
+onetcode;onet19;soccode18;soc18;stem ;soc10;isco08;isco88;cbo02;ocup cbo
+11101100;Chief Executives;111011;Chief Executives;0;111011;1112;1120;111405;Funcionário público federal superior
+11101103;Chief Sustainability Officers;111011;Chief Executives;0;111011;1112;1120;111405;Funcionário público federal superior
+11102100;General and Operations Managers;111021;General and Operations Managers;0;111021;1112;1120;111405;Funcionário público federal superior
+11103100;Legislators;111031;Legislators;0;111031;1111;1110;111105;Senador
+11201100;Advertising and Promotions Managers;112011;Advertising and Promotions Managers;0;112011;1222;1234;142310;Gerente de relações públicas
+11202100;Marketing Managers;112021;Marketing Managers;0;112021;1221;1233;142305;Gerente comercial
+11202200;Sales Managers;112022;Sales Managers;0;112022;1221;1233;142305;Gerente comercial
+11203200;Public Relations Managers;112032;Public Relations Managers;0;112031;1114;1141;#N/D;#N/D
+11203300;Fundraising Managers;112033;Fundraising Managers;0;112031;1114;1141;#N/D;#N/D
+11301200;Administrative Services Managers;113012;Administrative Services Managers;0;113011;1219;1227;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11301300;Facilities Managers;113013;Facilities Managers;0;113011;1219;1227;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11301301;Security Managers;113013;Facilities Managers;0;113011;1219;1227;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11302100;Computer and Information Systems Managers;113021;Computer and Information Systems Managers;1;113021;1330;1226;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11303100;Financial Managers;113031;Financial Managers;0;113031;1211;1231;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11303101;Treasurers and Controllers;113031;Financial Managers;0;113031;1211;1231;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11303103;Investment Fund Managers;113031;Financial Managers;0;113031;1211;1231;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11305100;Industrial Production Managers;113051;Industrial Production Managers;0;113051;1321;1222;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11305101;Quality Control Systems Managers;113051;Industrial Production Managers;0;113051;1321;1222;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11305102;Geothermal Production Managers;113051;Industrial Production Managers;0;113051;1321;1222;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11305103;Biofuels Production Managers;113051;Industrial Production Managers;0;113051;1321;1222;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11305104;Biomass Power Plant Managers;113051;Industrial Production Managers;0;113051;1321;1222;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11305106;Hydroelectric Production Managers;113051;Industrial Production Managers;0;113051;1321;1222;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11306100;Purchasing Managers;113061;Purchasing Managers;0;113061;1219;1227;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11307100;Transportation, Storage, and Distribution Managers;113071;Transportation, Storage, and Distribution Managers;0;113071;1324;1226;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11307104;Supply Chain Managers;113071;Transportation, Storage, and Distribution Managers;0;113071;1324;1226;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11311100;Compensation and Benefits Managers;113111;Compensation and Benefits Managers;0;113111;1212;1232;142210;Gerente de pessoal
+11312100;Human Resources Managers;113121;Human Resources Managers;0;113121;1212;1232;142210;Gerente de pessoal
+11313100;Training and Development Managers;113131;Training and Development Managers;0;113131;1212;1232;142210;Gerente de pessoal
+11901300;Farmers, Ranchers, and Other Agricultural Managers;119013;Farmers, Ranchers, and Other Agricultural Managers;0;119013;1311;1221;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11902100;Construction Managers;119021;Construction Managers;0;119021;1323;1223;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11903100;Education and Childcare Administrators, Preschool and Daycare;119031;Education and Childcare Administrators, Preschool and Daycare;0;119031;1341;1229;131305;Diretor de estabelecimento de ensino superior
+11903200;Education Administrators, Kindergarten through Secondary;119032;Education Administrators, Kindergarten through Secondary;0;119032;1345;1229;131305;Diretor de estabelecimento de ensino superior
+11903300;Education Administrators, Postsecondary;119033;Education Administrators, Postsecondary;0;119033;1345;1229;131305;Diretor de estabelecimento de ensino superior
+11903900;Education Administrators, All Other;119039;Education Administrators, All Other;0;119039;1345;1229;131305;Diretor de estabelecimento de ensino superior
+11904100;Architectural and Engineering Managers;119041;Architectural and Engineering Managers;1;119041;1223;1237;142605;Gerente de pesquisa e desenvolvimento
+11904101;Biofuels/Biodiesel Technology and Product Development Managers;119041;Architectural and Engineering Managers;1;119041;1223;1237;142605;Gerente de pesquisa e desenvolvimento
+11905100;Food Service Managers;119051;Food Service Managers;0;119051;1412;1225;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11907100;Gambling Managers;119071;Gambling Managers;0;119071;1431;1319;#N/D;#N/D
+11907200;Entertainment and Recreation Managers, Except Gambling;119072;Entertainment and Recreation Managers, Except Gambling;0;119199;1114;1141;#N/D;#N/D
+11908100;Lodging Managers;119081;Lodging Managers;0;119081;1411;1225;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11911100;Medical and Health Services Managers;119111;Medical and Health Services Managers;1;119111;1342;1229;131305;Diretor de estabelecimento de ensino superior
+11912100;Natural Sciences Managers;119121;Natural Sciences Managers;1;119121;1223;1237;142605;Gerente de pesquisa e desenvolvimento
+11912101;Clinical Research Coordinators;119121;Natural Sciences Managers;1;119121;1223;1237;142605;Gerente de pesquisa e desenvolvimento
+11912102;Water Resource Specialists;119121;Natural Sciences Managers;1;119121;1223;1237;142605;Gerente de pesquisa e desenvolvimento
+11913100;Postmasters and Mail Superintendents;119131;Postmasters and Mail Superintendents;0;119131;1219;1227;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11914100;Property, Real Estate, and Community Association Managers;119141;Property, Real Estate, and Community Association Managers;0;119141;3334;3413;354605;Corretor de imóveis
+11915100;Social and Community Service Managers;119151;Social and Community Service Managers;0;119151;1344;1229;131305;Diretor de estabelecimento de ensino superior
+11916100;Emergency Management Directors;119161;Emergency Management Directors;0;119161;1112;1120;111405;Funcionário público federal superior
+11917100;Funeral Home Managers;119171;Funeral Home Managers;0;119061;1219;1227;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+11917900;Personal Service Managers, All Other;119179;Personal Service Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11917901;Fitness and Wellness Coordinators;119179;Personal Service Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11917902;Spa Managers;119179;Personal Service Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919900;Managers, All Other;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919901;Regulatory Affairs Managers;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919902;Compliance Managers;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919908;Loss Prevention Managers;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919909;Wind Energy Operations Managers;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919910;Wind Energy Development Managers;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+11919911;Brownfield Redevelopment Specialists and Site Managers;119199;Managers, All Other;0;119199;1114;1141;#N/D;#N/D
+13101100;Agents and Business Managers of Artists, Performers, and Athletes;131011;Agents and Business Managers of Artists, Performers, and Athletes;0;131011;3339;2419;252105;Administrador
+13102100;Buyers and Purchasing Agents, Farm Products;131021;Buyers and Purchasing Agents, Farm Products;0;131021;3323;3416;354210;Supervisor de compras
+13102200;Wholesale and Retail Buyers, Except Farm Products;131022;Wholesale and Retail Buyers, Except Farm Products;0;131022;3323;3416;354210;Supervisor de compras
+13102300;Purchasing Agents, Except Wholesale, Retail, and Farm Products;131023;Purchasing Agents, Except Wholesale, Retail, and Farm Products;0;131023;3323;3416;354210;Supervisor de compras
+13103100;Claims Adjusters, Examiners, and Investigators;131031;Claims Adjusters, Examiners, and Investigators;0;131031;3315;3417;354405;Leiloeiro
+13103200;Insurance Appraisers, Auto Damage;131032;Insurance Appraisers, Auto Damage;0;131032;3315;3417;354405;Leiloeiro
+13104100;Compliance Officers;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13104101;Environmental Compliance Inspectors;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13104103;Equal Opportunity Representatives and Officers;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13104104;Government Property Inspectors and Investigators;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13104106;Coroners;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13104107;Regulatory Affairs Specialists;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13104108;Customs Brokers;131041;Compliance Officers;0;131041;3351;3441;#N/D;#N/D
+13105100;Cost Estimators;131051;Cost Estimators;0;131051;3339;2419;252105;Administrador
+13107100;Human Resources Specialists;131071;Human Resources Specialists;0;131071;2423;2412;252405;Analista de ocupações
+13107400;Farm Labor Contractors;131074;Farm Labor Contractors;0;131074;3333;3423;351305;Técnico de economia doméstica
+13107500;Labor Relations Specialists;131075;Labor Relations Specialists;0;131075;2423;2412;252405;Analista de ocupações
+13108100;Logisticians;131081;Logisticians;0;131081;2421;2419;252105;Administrador
+13108101;Logistics Engineers;131081;Logisticians;0;131081;2421;2419;252105;Administrador
+13108102;Logistics Analysts;131081;Logisticians;0;131081;2421;2419;252105;Administrador
+13108200;Project Management Specialists;131082;Project Management Specialists;0;119199;1114;1141;#N/D;#N/D
+13111100;Management Analysts;131111;Management Analysts;0;131111;2421;2419;252105;Administrador
+13112100;Meeting, Convention, and Event Planners;131121;Meeting, Convention, and Event Planners;0;131121;3332;3439;411010;Agente administrativo
+13113100;Fundraisers;131131;Fundraisers;0;131131;4214;4215;413230;Analista de crédito e cobrança
+13114100;Compensation, Benefits, and Job Analysis Specialists;131141;Compensation, Benefits, and Job Analysis Specialists;0;131141;2423;2412;252405;Analista de ocupações
+13115100;Training and Development Specialists;131151;Training and Development Specialists;0;131151;2356;2359;#N/D;#N/D
+13116100;Market Research Analysts and Marketing Specialists;131161;Market Research Analysts and Marketing Specialists;0;131161;2431;2419;252105;Administrador
+13116101;Search Marketing Strategists;131161;Market Research Analysts and Marketing Specialists;0;131161;2431;2419;252105;Administrador
+13119900;Business Operations Specialists, All Other;131199;Business Operations Specialists, All Other;0;131199;2422;2419;252105;Administrador
+13119904;Business Continuity Planners;131199;Business Operations Specialists, All Other;0;131199;2422;2419;252105;Administrador
+13119905;Sustainability Specialists;131199;Business Operations Specialists, All Other;0;131199;2422;2419;252105;Administrador
+13119906;Online Merchants;131199;Business Operations Specialists, All Other;0;131199;2422;2419;252105;Administrador
+13119907;Security Management Specialists;131199;Business Operations Specialists, All Other;0;131199;2422;2419;252105;Administrador
+13201100;Accountants and Auditors;132011;Accountants and Auditors;0;132011;2411;2411;252205;Auditor contábil
+13202200;Appraisers of Personal and Business Property;132022;Appraisers of Personal and Business Property;0;132021;3315;3417;354405;Leiloeiro
+13202300;Appraisers and Assessors of Real Estate;132023;Appraisers and Assessors of Real Estate;0;132021;3315;3417;354405;Leiloeiro
+13203100;Budget Analysts;132031;Budget Analysts;0;132031;2411;2411;252205;Auditor contábil
+13204100;Credit Analysts;132041;Credit Analysts;0;132041;2413;2419;252105;Administrador
+13205100;Financial and Investment Analysts;132051;Financial and Investment Analysts;0;132051;2412;2411;252205;Auditor contábil
+13205200;Personal Financial Advisors;132052;Personal Financial Advisors;0;132052;2412;2411;252205;Auditor contábil
+13205300;Insurance Underwriters;132053;Insurance Underwriters;0;132053;3321;3412;351720;Assistente técnico de seguros
+13205400;Financial Risk Specialists;132054;Financial Risk Specialists;0;132051;2412;2411;252205;Auditor contábil
+13206100;Financial Examiners;132061;Financial Examiners;0;132061;2413;2419;252105;Administrador
+13207100;Credit Counselors;132071;Credit Counselors;0;132071;3312;3419;#N/D;#N/D
+13207200;Loan Officers;132072;Loan Officers;0;132072;3312;3419;#N/D;#N/D
+13208100;Tax Examiners and Collectors, and Revenue Agents;132081;Tax Examiners and Collectors, and Revenue Agents;0;132081;3352;3442;254415;Técnico de tributos
+13208200;Tax Preparers;132082;Tax Preparers;0;132082;2411;2411;252205;Auditor contábil
+13209900;Financial Specialists, All Other;132099;Financial Specialists, All Other;0;132099;3339;2419;252105;Administrador
+13209901;Financial Quantitative Analysts;132099;Financial Specialists, All Other;0;132099;3339;2419;252105;Administrador
+13209904;Fraud Examiners, Investigators and Analysts;132099;Financial Specialists, All Other;0;132099;3339;2419;252105;Administrador
+15121100;Computer Systems Analysts;151211;Computer Systems Analysts;1;151121;2511;2131;212405;Analista de sistemas
+15121101;Health Informatics Specialists;151211;Computer Systems Analysts;1;151121;2511;2131;212405;Analista de sistemas
+15121200;Information Security Analysts;151212;Information Security Analysts;1;151122;2529;2139;#N/D;#N/D
+15122100;Computer and Information Research Scientists;151221;Computer and Information Research Scientists;1;151111;2511;2131;212405;Analista de sistemas
+15123100;Computer Network Support Specialists;151231;Computer Network Support Specialists;1;151152;3513;3121;142510;Gerente de programação
+15123200;Computer User Support Specialists;151232;Computer User Support Specialists;1;151151;3512;3121;142510;Gerente de programação
+15124100;Computer Network Architects;151241;Computer Network Architects;1;151143;2523;2131;212405;Analista de sistemas
+15124101;Telecommunications Engineering Specialists;151241;Computer Network Architects;1;151143;2523;2131;212405;Analista de sistemas
+15124200;Database Administrators;151242;Database Administrators;1;151141;2521;2131;212405;Analista de sistemas
+15124300;Database Architects;151243;Database Architects;1;151141;2521;2131;212405;Analista de sistemas
+15124301;Data Warehousing Specialists;151243;Database Architects;1;151141;2521;2131;212405;Analista de sistemas
+15124400;Network and Computer Systems Administrators;151244;Network and Computer Systems Administrators;1;151142;2522;2131;212405;Analista de sistemas
+15125100;Computer Programmers;151251;Computer Programmers;1;151131;2514;2132;#N/D;#N/D
+15125200;Software Developers;151252;Software Developers;1;151132;2512;2131;212405;Analista de sistemas
+15125300;Software Quality Assurance Analysts and Testers;151253;Software Quality Assurance Analysts and Testers;1;151132;2512;2131;212405;Analista de sistemas
+15125400;Web Developers;151254;Web Developers;1;151134;2513;2131;212405;Analista de sistemas
+15125500;Web and Digital Interface Designers;151255;Web and Digital Interface Designers;1;151134;2513;2131;212405;Analista de sistemas
+15125501;Video Game Designers;151255;Web and Digital Interface Designers;1;151134;2513;2131;212405;Analista de sistemas
+15129900;Computer Occupations, All Other;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129901;Web Administrators;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129902;Geographic Information Systems Technologists and Technicians;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129903;Document Management Specialists;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129904;Penetration Testers;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129905;Information Security Engineers;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129906;Digital Forensics Analysts;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129907;Blockchain Engineers;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129908;Computer Systems Engineers/Architects;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15129909;Information Technology Project Managers;151299;Computer Occupations, All Other;1;151199;2519;2131;212405;Analista de sistemas
+15201100;Actuaries;152011;Actuaries;1;152011;2120;2121;211115;Matemático
+15202100;Mathematicians;152021;Mathematicians;1;152021;2120;2121;211115;Matemático
+15203100;Operations Research Analysts;152031;Operations Research Analysts;1;152031;2120;2121;211115;Matemático
+15204100;Statisticians;152041;Statisticians;1;152041;2120;2121;211115;Matemático
+15204101;Biostatisticians;152041;Statisticians;1;152041;2120;2121;211115;Matemático
+15205100;Data Scientists;152051;Data Scientists;1;152099;3314;3434;424125;Técnico de estatística
+15205101;Business Intelligence Analysts;152051;Data Scientists;1;152099;3314;3434;424125;Técnico de estatística
+15205102;Clinical Data Managers;152051;Data Scientists;1;152099;3314;3434;424125;Técnico de estatística
+15209900;Mathematical Science Occupations, All Other;152099;Mathematical Science Occupations, All Other;1;152091;3314;3434;424125;Técnico de estatística
+15209901;Bioinformatics Technicians;152099;Mathematical Science Occupations, All Other;1;152091;3314;3434;424125;Técnico de estatística
+17101100;Architects, Except Landscape and Naval;171011;Architects, Except Landscape and Naval;1;171011;2161;2141;214105;Arquiteto
+17101200;Landscape Architects;171012;Landscape Architects;1;171012;2162;2141;214105;Arquiteto
+17102100;Cartographers and Photogrammetrists;171021;Cartographers and Photogrammetrists;1;171021;2165;2148;214805;Engenheiro agrimensor
+17102200;Surveyors;171022;Surveyors;1;171022;2165;2148;214805;Engenheiro agrimensor
+17102201;Geodetic Surveyors;171022;Surveyors;1;171022;2165;2148;214805;Engenheiro agrimensor
+17201100;Aerospace Engineers;172011;Aerospace Engineers;1;172011;2144;2145;214405;Engenheiro de operação (mecânica)
+17202100;Agricultural Engineers;172021;Agricultural Engineers;1;172021;2144;2145;214405;Engenheiro de operação (mecânica)
+17203100;Bioengineers and Biomedical Engineers;172031;Bioengineers and Biomedical Engineers;1;172031;2149;2149;214510;Engenheiro de operação (têxtil)
+17204100;Chemical Engineers;172041;Chemical Engineers;1;172041;2145;2146;214525;Engenheiro químico (petróleo)
+17205100;Civil Engineers;172051;Civil Engineers;1;172051;2142;2142;214215;Engenheiro civil (edificações)
+17205101;Transportation Engineers;172051;Civil Engineers;1;172051;2142;2142;214215;Engenheiro civil (edificações)
+17205102;Water/Wastewater Engineers;172051;Civil Engineers;1;172051;2142;2142;214215;Engenheiro civil (edificações)
+17206100;Computer Hardware Engineers;172061;Computer Hardware Engineers;1;172061;2152;2144;203215;Pesquisador de telecomunicações
+17207100;Electrical Engineers;172071;Electrical Engineers;1;172071;2151;2143;214305;Engenheiro de operação (eletrotécnica)
+17207200;Electronics Engineers, Except Computer;172072;Electronics Engineers, Except Computer;1;172072;2153;2144;203215;Pesquisador de telecomunicações
+17207201;Radio Frequency Identification Device Specialists;172072;Electronics Engineers, Except Computer;1;172072;2153;2144;203215;Pesquisador de telecomunicações
+17208100;Environmental Engineers;172081;Environmental Engineers;1;172081;2143;2149;214510;Engenheiro de operação (têxtil)
+17211100;Health and Safety Engineers, Except Mining Safety Engineers and Inspectors;172111;Health and Safety Engineers, Except Mining Safety Engineers and Inspectors;1;172111;2149;2149;214510;Engenheiro de operação (têxtil)
+17211102;Fire-Prevention and Protection Engineers;172111;Health and Safety Engineers, Except Mining Safety Engineers and Inspectors;1;172111;2149;2149;214510;Engenheiro de operação (têxtil)
+17211200;Industrial Engineers;172112;Industrial Engineers;1;172112;2141;2149;214510;Engenheiro de operação (têxtil)
+17211201;Human Factors Engineers and Ergonomists;172112;Industrial Engineers;1;172112;2141;2149;214510;Engenheiro de operação (têxtil)
+17211202;Validation Engineers;172112;Industrial Engineers;1;172112;2141;2149;214510;Engenheiro de operação (têxtil)
+17211203;Manufacturing Engineers;172112;Industrial Engineers;1;172112;2141;2149;214510;Engenheiro de operação (têxtil)
+17212100;Marine Engineers and Naval Architects;172121;Marine Engineers and Naval Architects;1;172121;2144;2145;214405;Engenheiro de operação (mecânica)
+17213100;Materials Engineers;172131;Materials Engineers;1;172131;2146;2147;214610;Engenheiro de operação (metalurgia)
+17214100;Mechanical Engineers;172141;Mechanical Engineers;1;172141;2144;2145;214405;Engenheiro de operação (mecânica)
+17214101;Fuel Cell Engineers;172141;Mechanical Engineers;1;172141;2144;2145;214405;Engenheiro de operação (mecânica)
+17214102;Automotive Engineers;172141;Mechanical Engineers;1;172141;2144;2145;214405;Engenheiro de operação (mecânica)
+17215100;Mining and Geological Engineers, Including Mining Safety Engineers;172151;Mining and Geological Engineers, Including Mining Safety Engineers;1;172151;2146;2147;214610;Engenheiro de operação (metalurgia)
+17216100;Nuclear Engineers;172161;Nuclear Engineers;1;172161;2149;2149;214510;Engenheiro de operação (têxtil)
+17217100;Petroleum Engineers;172171;Petroleum Engineers;1;172171;2146;2147;214610;Engenheiro de operação (metalurgia)
+17219900;Engineers, All Other;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219903;Energy Engineers, Except Wind and Solar;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219905;Mechatronics Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219906;Microsystems Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219907;Photonics Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219908;Robotics Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219909;Nanosystems Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219910;Wind Energy Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17219911;Solar Energy Systems Engineers;172199;Engineers, All Other;1;172199;2149;2149;214510;Engenheiro de operação (têxtil)
+17301100;Architectural and Civil Drafters;173011;Architectural and Civil Drafters;1;173011;3118;3118;318430;Desenhista Técnico Industrial
+17301200;Electrical and Electronics Drafters;173012;Electrical and Electronics Drafters;1;173012;3118;3118;318430;Desenhista Técnico Industrial
+17301300;Mechanical Drafters;173013;Mechanical Drafters;1;173013;3118;3118;318430;Desenhista Técnico Industrial
+17301900;Drafters, All Other;173019;Drafters, All Other;1;173019;3118;3118;318430;Desenhista Técnico Industrial
+17302100;Aerospace Engineering and Operations Technologists and Technicians;173021;Aerospace Engineering and Operations Technologists and Technicians;1;173021;3115;3115;314310;Técnico mecânico (aeronaves)
+17302200;Civil Engineering Technologists and Technicians;173022;Civil Engineering Technologists and Technicians;1;173022;3112;3112;312105;Técnico de obras civis
+17302300;Electrical and Electronic Engineering Technologists and Technicians;173023;Electrical and Electronic Engineering Technologists and Technicians;1;173023;3113;3113;313120;Técnico de manutenção elétrica
+17302400;Electro-Mechanical and Mechatronics Technologists and Technicians;173024;Electro-Mechanical and Mechatronics Technologists and Technicians;1;173024;3113;3113;313120;Técnico de manutenção elétrica
+17302401;Robotics Technicians;173024;Electro-Mechanical and Mechatronics Technologists and Technicians;1;173024;3113;3113;313120;Técnico de manutenção elétrica
+17302500;Environmental Engineering Technologists and Technicians;173025;Environmental Engineering Technologists and Technicians;1;173025;3119;3119;311615;Técnico têxtil (fiação)
+17302600;Industrial Engineering Technologists and Technicians;173026;Industrial Engineering Technologists and Technicians;1;173026;3119;3119;311615;Técnico têxtil (fiação)
+17302601;Nanotechnology Engineering Technologists and Technicians;173026;Industrial Engineering Technologists and Technicians;1;173026;3119;3119;311615;Técnico têxtil (fiação)
+17302700;Mechanical Engineering Technologists and Technicians;173027;Mechanical Engineering Technologists and Technicians;1;173027;3115;3115;314310;Técnico mecânico (aeronaves)
+17302701;Automotive Engineering Technicians;173027;Mechanical Engineering Technologists and Technicians;1;173027;3115;3115;314310;Técnico mecânico (aeronaves)
+17302800;Calibration Technologists and Technicians;173028;Calibration Technologists and Technicians;1;173029;3115;3115;314310;Técnico mecânico (aeronaves)
+17302900;Engineering Technologists and Technicians, Except Drafters, All Other;173029;Engineering Technologists and Technicians, Except Drafters, All Other;1;173029;3115;3115;314310;Técnico mecânico (aeronaves)
+17302901;Non-Destructive Testing Specialists;173029;Engineering Technologists and Technicians, Except Drafters, All Other;1;173029;3115;3115;314310;Técnico mecânico (aeronaves)
+17302908;Photonics Technicians;173029;Engineering Technologists and Technicians, Except Drafters, All Other;1;173029;3115;3115;314310;Técnico mecânico (aeronaves)
+17303100;Surveying and Mapping Technicians;173031;Surveying and Mapping Technicians;1;173031;3112;3112;312105;Técnico de obras civis
+19101100;Animal Scientists;191011;Animal Scientists;1;191011;2131;2211;203025;Botânico
+19101200;Food Scientists and Technologists;191012;Food Scientists and Technologists;1;191012;2131;2211;203025;Botânico
+19101300;Soil and Plant Scientists;191013;Soil and Plant Scientists;1;191013;2131;2211;203025;Botânico
+19102100;Biochemists and Biophysicists;191021;Biochemists and Biophysicists;1;191021;2131;2211;203025;Botânico
+19102200;Microbiologists;191022;Microbiologists;1;191022;2131;2211;203025;Botânico
+19102300;Zoologists and Wildlife Biologists;191023;Zoologists and Wildlife Biologists;1;191023;2131;2211;203025;Botânico
+19102900;Biological Scientists, All Other;191029;Biological Scientists, All Other;1;191029;2131;2211;203025;Botânico
+19102901;Bioinformatics Scientists;191029;Biological Scientists, All Other;1;191029;2131;2211;203025;Botânico
+19102902;Molecular and Cellular Biologists;191029;Biological Scientists, All Other;1;191029;2131;2211;203025;Botânico
+19102903;Geneticists;191029;Biological Scientists, All Other;1;191029;2131;2211;203025;Botânico
+19102904;Biologists;191029;Biological Scientists, All Other;1;191029;2131;2211;203025;Botânico
+19103100;Conservation Scientists;191031;Conservation Scientists;1;191031;2133;2211;203025;Botânico
+19103102;Range Managers;191031;Conservation Scientists;1;191031;2133;2211;203025;Botânico
+19103103;Park Naturalists;191031;Conservation Scientists;1;191031;2133;2211;203025;Botânico
+19103200;Foresters;191032;Foresters;1;191032;2132;2213;222110;Engenheiro agrônomo
+19104100;Epidemiologists;191041;Epidemiologists;1;191041;2131;2211;203025;Botânico
+19104200;Medical Scientists, Except Epidemiologists;191042;Medical Scientists, Except Epidemiologists;1;191042;2131;2211;203025;Botânico
+19109900;Life Scientists, All Other;191099;Life Scientists, All Other;1;191099;2131;2211;203025;Botânico
+19201100;Astronomers;192011;Astronomers;1;192011;2111;2111;213150;Físico (medicina)
+19201200;Physicists;192012;Physicists;1;192012;2111;2111;213150;Físico (medicina)
+19202100;Atmospheric and Space Scientists;192021;Atmospheric and Space Scientists;1;192021;2112;2112;213315;Meteorologista
+19203100;Chemists;192031;Chemists;1;192031;2113;2113;213205;Químico
+19203200;Materials Scientists;192032;Materials Scientists;1;192032;2113;2113;213205;Químico
+19204100;Environmental Scientists and Specialists, Including Health;192041;Environmental Scientists and Specialists, Including Health;1;192041;2133;2211;203025;Botânico
+19204101;Climate Change Policy Analysts;192041;Environmental Scientists and Specialists, Including Health;1;192041;2133;2211;203025;Botânico
+19204102;Environmental Restoration Planners;192041;Environmental Scientists and Specialists, Including Health;1;192041;2133;2211;203025;Botânico
+19204103;Industrial Ecologists;192041;Environmental Scientists and Specialists, Including Health;1;192041;2133;2211;203025;Botânico
+19204200;Geoscientists, Except Hydrologists and Geographers;192042;Geoscientists, Except Hydrologists and Geographers;1;192042;2114;2114;213415;Geofísico
+19204300;Hydrologists;192043;Hydrologists;1;192043;2114;2114;213415;Geofísico
+19209900;Physical Scientists, All Other;192099;Physical Scientists, All Other;1;192099;211;#N/D;#N/D;#N/D
+19209901;Remote Sensing Scientists and Technologists;192099;Physical Scientists, All Other;1;192099;211;#N/D;#N/D;#N/D
+19301100;Economists;193011;Economists;1;193011;2631;2441;251225;Economista (mercadologia)
+19301101;Environmental Economists;193011;Economists;1;193011;2631;2441;251225;Economista (mercadologia)
+19302200;Survey Researchers;193022;Survey Researchers;1;193022;2120;2121;211115;Matemático
+19303200;Industrial-Organizational Psychologists;193032;Industrial-Organizational Psychologists;1;193032;2634;2445;251540;Psicólogo do trabalho
+19303300;Clinical and Counseling Psychologists;193033;Clinical and Counseling Psychologists;1;193031;2634;2445;251540;Psicólogo do trabalho
+19303400;School Psychologists;193034;School Psychologists;1;193031;2634;2445;251540;Psicólogo do trabalho
+19303900;Psychologists, All Other;193039;Psychologists, All Other;1;193039;2634;2445;251540;Psicólogo do trabalho
+19303902;Neuropsychologists;193039;Psychologists, All Other;1;193039;2634;2445;251540;Psicólogo do trabalho
+19303903;Clinical Neuropsychologists;193039;Psychologists, All Other;1;193039;2634;2445;251540;Psicólogo do trabalho
+19304100;Sociologists;193041;Sociologists;1;193041;2632;2442;251120;Sociólogo
+19305100;Urban and Regional Planners;193051;Urban and Regional Planners;1;193051;2164;2141;214105;Arquiteto
+19309100;Anthropologists and Archeologists;193091;Anthropologists and Archeologists;1;193091;2632;2442;251120;Sociólogo
+19309200;Geographers;193092;Geographers;1;193092;2632;2442;251120;Sociólogo
+19309300;Historians;193093;Historians;0;193093;2633;2443;203520;Historiador
+19309400;Political Scientists;193094;Political Scientists;1;193094;2633;2443;203520;Historiador
+19309900;Social Scientists and Related Workers, All Other;193099;Social Scientists and Related Workers, All Other;1;193099;2633;2443;203520;Historiador
+19309901;Transportation Planners;193099;Social Scientists and Related Workers, All Other;1;193099;2633;2443;203520;Historiador
+19401200;Agricultural Technicians;194012;Agricultural Technicians;1;194011;3142;3212;321105;Técnico agrícola
+19401201;Precision Agriculture Technicians;194012;Agricultural Technicians;1;194011;3142;3212;321105;Técnico agrícola
+19401300;Food Science Technicians;194013;Food Science Technicians;1;194011;3142;3212;321105;Técnico agrícola
+19402100;Biological Technicians;194021;Biological Technicians;1;194021;3141;3211;324205;Técnico de laboratório de análises clínicas
+19403100;Chemical Technicians;194031;Chemical Technicians;1;194031;3111;3111;316110;Técnico de geologia
+19404200;Environmental Science and Protection Technicians, Including Health;194042;Environmental Science and Protection Technicians, Including Health;1;194091;3141;3211;324205;Técnico de laboratório de análises clínicas
+19404300;Geological Technicians, Except Hydrologic Technicians;194043;Geological Technicians, Except Hydrologic Technicians;1;194041;3111;3111;316110;Técnico de geologia
+19404400;Hydrologic Technicians;194044;Hydrologic Technicians;1;194041;3111;3111;316110;Técnico de geologia
+19405100;Nuclear Technicians;194051;Nuclear Technicians;1;194051;3119;3119;311615;Técnico têxtil (fiação)
+19405102;Nuclear Monitoring Technicians;194051;Nuclear Technicians;1;194051;3119;3119;311615;Técnico têxtil (fiação)
+19406100;Social Science Research Assistants;194061;Social Science Research Assistants;1;194061;3314;3434;424125;Técnico de estatística
+19407100;Forest and Conservation Technicians;194071;Forest and Conservation Technicians;1;194093;3143;3212;321105;Técnico agrícola
+19409200;Forensic Science Technicians;194092;Forensic Science Technicians;1;194092;3119;3119;311615;Técnico têxtil (fiação)
+19409900;Life, Physical, and Social Science Technicians, All Other;194099;Life, Physical, and Social Science Technicians, All Other;1;194099;3111;3111;316110;Técnico de geologia
+19409901;Quality Control Analysts;194099;Life, Physical, and Social Science Technicians, All Other;1;194099;3111;3111;316110;Técnico de geologia
+19409903;Remote Sensing Technicians;194099;Life, Physical, and Social Science Technicians, All Other;1;194099;3111;3111;316110;Técnico de geologia
+19501100;Occupational Health and Safety Specialists;195011;Occupational Health and Safety Specialists;0;299011;2263;2229;223710;Nutricionista
+19501200;Occupational Health and Safety Technicians;195012;Occupational Health and Safety Technicians;0;299012;3257;3152;391205;Inspetor de qualidade
+21101100;Substance Abuse and Behavioral Disorder Counselors;211011;Substance Abuse and Behavioral Disorder Counselors;0;211011;2635;2446;251605;Assistente social
+21101200;Educational, Guidance, and Career Counselors and Advisors;211012;Educational, Guidance, and Career Counselors and Advisors;0;211012;2359;2359;#N/D;#N/D
+21101300;Marriage and Family Therapists;211013;Marriage and Family Therapists;0;211013;2635;2446;251605;Assistente social
+21101400;Mental Health Counselors;211014;Mental Health Counselors;0;211014;2635;2446;251605;Assistente social
+21101500;Rehabilitation Counselors;211015;Rehabilitation Counselors;0;211015;2635;2446;251605;Assistente social
+21101900;Counselors, All Other;211019;Counselors, All Other;0;211019;2635;2446;251605;Assistente social
+21102100;Child, Family, and School Social Workers;211021;Child, Family, and School Social Workers;0;211021;2635;2446;251605;Assistente social
+21102200;Healthcare Social Workers;211022;Healthcare Social Workers;0;211022;2635;2446;251605;Assistente social
+21102300;Mental Health and Substance Abuse Social Workers;211023;Mental Health and Substance Abuse Social Workers;0;211023;2635;2446;251605;Assistente social
+21102900;Social Workers, All Other;211029;Social Workers, All Other;0;211029;2635;2446;251605;Assistente social
+21109100;Health Education Specialists;211091;Health Education Specialists;0;211091;2263;2229;223710;Nutricionista
+21109200;Probation Officers and Correctional Treatment Specialists;211092;Probation Officers and Correctional Treatment Specialists;0;211092;2635;2446;251605;Assistente social
+21109300;Social and Human Service Assistants;211093;Social and Human Service Assistants;0;211093;3412;3460;#N/D;#N/D
+21109400;Community Health Workers;211094;Community Health Workers;0;211094;3253;3221;#N/D;#N/D
+21109900;Community and Social Service Specialists, All Other;211099;Community and Social Service Specialists, All Other;0;211099;2635;2446;251605;Assistente social
+21201100;Clergy;212011;Clergy;0;212011;2636;2460;263105;Ministro de culto religioso
+21202100;Directors, Religious Activities and Education;212021;Directors, Religious Activities and Education;0;212021;2636;2460;263105;Ministro de culto religioso
+21209900;Religious Workers, All Other;212099;Religious Workers, All Other;0;212099;3413;3242;#N/D;#N/D
+23101100;Lawyers;231011;Lawyers;0;231011;2611;2421;241015;Advogado (direito civil)
+23101200;Judicial Law Clerks;231012;Judicial Law Clerks;0;231012;3411;3432;241335;Tabelião
+23102100;Administrative Law Judges, Adjudicators, and Hearing Officers;231021;Administrative Law Judges, Adjudicators, and Hearing Officers;0;231021;2612;2422;111330;Juiz federal
+23102200;Arbitrators, Mediators, and Conciliators;231022;Arbitrators, Mediators, and Conciliators;0;231022;2619;2429;241215;Procurador da fazenda nacional
+23102300;Judges, Magistrate Judges, and Magistrates;231023;Judges, Magistrate Judges, and Magistrates;0;231023;2612;2422;111330;Juiz federal
+23201100;Paralegals and Legal Assistants;232011;Paralegals and Legal Assistants;0;232011;3411;3432;241335;Tabelião
+23209300;Title Examiners, Abstractors, and Searchers;232093;Title Examiners, Abstractors, and Searchers;0;232093;3411;3432;241335;Tabelião
+23209900;Legal Support Workers, All Other;232099;Legal Support Workers, All Other;0;232099;3411;3432;241335;Tabelião
+25101100;Business Teachers, Postsecondary;251011;Business Teachers, Postsecondary;0;251011;2310;2310;234505;Professor de didática (ensino superior)
+25102100;Computer Science Teachers, Postsecondary;251021;Computer Science Teachers, Postsecondary;1;251021;2310;2310;234505;Professor de didática (ensino superior)
+25102200;Mathematical Science Teachers, Postsecondary;251022;Mathematical Science Teachers, Postsecondary;1;251022;2310;2310;234505;Professor de didática (ensino superior)
+25103100;Architecture Teachers, Postsecondary;251031;Architecture Teachers, Postsecondary;1;251031;2310;2310;234505;Professor de didática (ensino superior)
+25103200;Engineering Teachers, Postsecondary;251032;Engineering Teachers, Postsecondary;1;251032;2310;2310;234505;Professor de didática (ensino superior)
+25104100;Agricultural Sciences Teachers, Postsecondary;251041;Agricultural Sciences Teachers, Postsecondary;1;251041;2310;2310;234505;Professor de didática (ensino superior)
+25104200;Biological Science Teachers, Postsecondary;251042;Biological Science Teachers, Postsecondary;1;251042;2310;2310;234505;Professor de didática (ensino superior)
+25104300;Forestry and Conservation Science Teachers, Postsecondary;251043;Forestry and Conservation Science Teachers, Postsecondary;1;251043;2310;2310;234505;Professor de didática (ensino superior)
+25105100;Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary;251051;Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary;1;251051;2310;2310;234505;Professor de didática (ensino superior)
+25105200;Chemistry Teachers, Postsecondary;251052;Chemistry Teachers, Postsecondary;1;251052;2310;2310;234505;Professor de didática (ensino superior)
+25105300;Environmental Science Teachers, Postsecondary;251053;Environmental Science Teachers, Postsecondary;1;251053;2310;2310;234505;Professor de didática (ensino superior)
+25105400;Physics Teachers, Postsecondary;251054;Physics Teachers, Postsecondary;1;251054;2310;2310;234505;Professor de didática (ensino superior)
+25106100;Anthropology and Archeology Teachers, Postsecondary;251061;Anthropology and Archeology Teachers, Postsecondary;1;251061;2310;2310;234505;Professor de didática (ensino superior)
+25106200;Area, Ethnic, and Cultural Studies Teachers, Postsecondary;251062;Area, Ethnic, and Cultural Studies Teachers, Postsecondary;1;251062;2310;2310;234505;Professor de didática (ensino superior)
+25106300;Economics Teachers, Postsecondary;251063;Economics Teachers, Postsecondary;1;251063;2310;2310;234505;Professor de didática (ensino superior)
+25106400;Geography Teachers, Postsecondary;251064;Geography Teachers, Postsecondary;1;251064;2310;2310;234505;Professor de didática (ensino superior)
+25106500;Political Science Teachers, Postsecondary;251065;Political Science Teachers, Postsecondary;1;251065;2310;2310;234505;Professor de didática (ensino superior)
+25106600;Psychology Teachers, Postsecondary;251066;Psychology Teachers, Postsecondary;1;251066;2310;2310;234505;Professor de didática (ensino superior)
+25106700;Sociology Teachers, Postsecondary;251067;Sociology Teachers, Postsecondary;1;251067;2310;2310;234505;Professor de didática (ensino superior)
+25106900;Social Sciences Teachers, Postsecondary, All Other;251069;Social Sciences Teachers, Postsecondary, All Other;1;251069;2310;2310;234505;Professor de didática (ensino superior)
+25107100;Health Specialties Teachers, Postsecondary;251071;Health Specialties Teachers, Postsecondary;1;251071;2310;2310;234505;Professor de didática (ensino superior)
+25107200;Nursing Instructors and Teachers, Postsecondary;251072;Nursing Instructors and Teachers, Postsecondary;1;251072;2310;2310;234505;Professor de didática (ensino superior)
+25108100;Education Teachers, Postsecondary;251081;Education Teachers, Postsecondary;0;251081;2310;2310;234505;Professor de didática (ensino superior)
+25108200;Library Science Teachers, Postsecondary;251082;Library Science Teachers, Postsecondary;0;251082;2310;2310;234505;Professor de didática (ensino superior)
+25111100;Criminal Justice and Law Enforcement Teachers, Postsecondary;251111;Criminal Justice and Law Enforcement Teachers, Postsecondary;0;251111;2310;2310;234505;Professor de didática (ensino superior)
+25111200;Law Teachers, Postsecondary;251112;Law Teachers, Postsecondary;0;251112;2310;2310;234505;Professor de didática (ensino superior)
+25111300;Social Work Teachers, Postsecondary;251113;Social Work Teachers, Postsecondary;0;251113;2310;2310;234505;Professor de didática (ensino superior)
+25112100;Art, Drama, and Music Teachers, Postsecondary;251121;Art, Drama, and Music Teachers, Postsecondary;0;251121;2310;2310;234505;Professor de didática (ensino superior)
+25112200;Communications Teachers, Postsecondary;251122;Communications Teachers, Postsecondary;0;251122;2310;2310;234505;Professor de didática (ensino superior)
+25112300;English Language and Literature Teachers, Postsecondary;251123;English Language and Literature Teachers, Postsecondary;0;251123;2310;2310;234505;Professor de didática (ensino superior)
+25112400;Foreign Language and Literature Teachers, Postsecondary;251124;Foreign Language and Literature Teachers, Postsecondary;0;251124;2310;2310;234505;Professor de didática (ensino superior)
+25112500;History Teachers, Postsecondary;251125;History Teachers, Postsecondary;0;251125;2310;2310;234505;Professor de didática (ensino superior)
+25112600;Philosophy and Religion Teachers, Postsecondary;251126;Philosophy and Religion Teachers, Postsecondary;0;251126;2310;2310;234505;Professor de didática (ensino superior)
+25119200;Family and Consumer Sciences Teachers, Postsecondary;251192;Family and Consumer Sciences Teachers, Postsecondary;0;251192;2310;2310;234505;Professor de didática (ensino superior)
+25119300;Recreation and Fitness Studies Teachers, Postsecondary;251193;Recreation and Fitness Studies Teachers, Postsecondary;0;251193;2310;2310;234505;Professor de didática (ensino superior)
+25119400;Career/Technical Education Teachers, Postsecondary;251194;Career/Technical Education Teachers, Postsecondary;0;251194;2320;2310;234505;Professor de didática (ensino superior)
+25119900;Postsecondary Teachers, All Other;251199;Postsecondary Teachers, All Other;0;251199;2310;2310;234505;Professor de didática (ensino superior)
+25201100;Preschool Teachers, Except Special Education;252011;Preschool Teachers, Except Special Education;0;252011;2342;2332;#N/D;#N/D
+25201200;Kindergarten Teachers, Except Special Education;252012;Kindergarten Teachers, Except Special Education;0;252012;2342;2332;#N/D;#N/D
+25202100;Elementary School Teachers, Except Special Education;252021;Elementary School Teachers, Except Special Education;0;252021;2341;2331;231210;Professor de 1a. a 4a. série (ensino de 1o. grau)
+25202200;Middle School Teachers, Except Special and Career/Technical Education;252022;Middle School Teachers, Except Special and Career/Technical Education;0;252022;2341;2331;231210;Professor de 1a. a 4a. série (ensino de 1o. grau)
+25202300;Career/Technical Education Teachers, Middle School;252023;Career/Technical Education Teachers, Middle School;0;252023;2320;2310;234505;Professor de didática (ensino superior)
+25203100;Secondary School Teachers, Except Special and Career/Technical Education;252031;Secondary School Teachers, Except Special and Career/Technical Education;0;252031;2330;2320;232145;Professor de língua portuguesa e literatura brasileira (ensino2o. grau)
+25203200;Career/Technical Education Teachers, Secondary School;252032;Career/Technical Education Teachers, Secondary School;0;252032;2320;2310;234505;Professor de didática (ensino superior)
+25205100;Special Education Teachers, Preschool;252051;Special Education Teachers, Preschool;0;252051;2352;2340;239215;Professor de alunos com deficências mentais
+25205500;Special Education Teachers, Kindergarten;252055;Special Education Teachers, Kindergarten;0;252052;2352;2340;239215;Professor de alunos com deficências mentais
+25205600;Special Education Teachers, Elementary School;252056;Special Education Teachers, Elementary School;0;252052;2352;2340;239215;Professor de alunos com deficências mentais
+25205700;Special Education Teachers, Middle School;252057;Special Education Teachers, Middle School;0;252053;2352;2340;239215;Professor de alunos com deficências mentais
+25205800;Special Education Teachers, Secondary School;252058;Special Education Teachers, Secondary School;0;252054;2352;2340;239215;Professor de alunos com deficências mentais
+25205900;Special Education Teachers, All Other;252059;Special Education Teachers, All Other;0;252059;2352;2340;239215;Professor de alunos com deficências mentais
+25205901;Adapted Physical Education Specialists;252059;Special Education Teachers, All Other;0;252059;2352;2340;239215;Professor de alunos com deficências mentais
+25301100;Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors;253011;Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors;0;253011;2353;2359;#N/D;#N/D
+25302100;Self-Enrichment Teachers;253021;Self-Enrichment Teachers;0;253021;2353;2359;#N/D;#N/D
+25303100;Substitute Teachers, Short-Term;253031;Substitute Teachers, Short-Term;0;253099;2359;2359;#N/D;#N/D
+25304100;Tutors;253041;Tutors;0;253099;2359;2359;#N/D;#N/D
+25309900;Teachers and Instructors, All Other;253099;Teachers and Instructors, All Other;0;253099;2359;2359;#N/D;#N/D
+25401100;Archivists;254011;Archivists;0;254011;2621;2431;261305;Arquivologista
+25401200;Curators;254012;Curators;0;254012;2621;2431;261305;Arquivologista
+25401300;Museum Technicians and Conservators;254013;Museum Technicians and Conservators;0;254013;3433;3439;411010;Agente administrativo
+25402200;Librarians and Media Collections Specialists;254022;Librarians and Media Collections Specialists;0;254021;2622;2432;261205;Bibliotecário
+25403100;Library Technicians;254031;Library Technicians;0;254031;3433;3439;411010;Agente administrativo
+25902100;Farm and Home Management Educators;259021;Farm and Home Management Educators;0;259021;2132;2213;222110;Engenheiro agrônomo
+25903100;Instructional Coordinators;259031;Instructional Coordinators;0;259031;2351;2351;239430;Supervisor educacional
+25904200;Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education;259042;Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education;0;259041;5312;5131;516205;Babá
+25904300;Teaching Assistants, Special Education;259043;Teaching Assistants, Special Education;0;259041;5312;5131;516205;Babá
+25904400;Teaching Assistants, Postsecondary;259044;Teaching Assistants, Postsecondary;0;251191;2310;2310;234505;Professor de didática (ensino superior)
+25904900;Teaching Assistants, All Other;259049;Teaching Assistants, All Other;0;259041;5312;5131;516205;Babá
+25909900;Educational Instruction and Library Workers, All Other;259099;Educational Instruction and Library Workers, All Other;0;259099;2359;2359;#N/D;#N/D
+27101100;Art Directors;271011;Art Directors;0;271011;2654;1229;131305;Diretor de estabelecimento de ensino superior
+27101200;Craft Artists;271012;Craft Artists;0;271012;2651;2452;262405;Escultor
+27101300;Fine Artists, Including Painters, Sculptors, and Illustrators;271013;Fine Artists, Including Painters, Sculptors, and Illustrators;0;271013;2651;2452;262405;Escultor
+27101400;Special Effects Artists and Animators;271014;Special Effects Artists and Animators;0;271014;2166;3471;262410;Desenhista industrial (designer)
+27101900;Artists and Related Workers, All Other;271019;Artists and Related Workers, All Other;0;271019;3435;1229;131305;Diretor de estabelecimento de ensino superior
+27102100;Commercial and Industrial Designers;271021;Commercial and Industrial Designers;0;271021;2163;3471;262410;Desenhista industrial (designer)
+27102200;Fashion Designers;271022;Fashion Designers;0;271022;2163;3471;262410;Desenhista industrial (designer)
+27102300;Floral Designers;271023;Floral Designers;0;271023;7549;7322;752115;Soprador de vidro
+27102400;Graphic Designers;271024;Graphic Designers;0;271024;2166;3471;262410;Desenhista industrial (designer)
+27102500;Interior Designers;271025;Interior Designers;0;271025;3432;3471;262410;Desenhista industrial (designer)
+27102600;Merchandise Displayers and Window Trimmers;271026;Merchandise Displayers and Window Trimmers;0;271026;3432;3471;262410;Desenhista industrial (designer)
+27102700;Set and Exhibit Designers;271027;Set and Exhibit Designers;0;271027;3432;3471;262410;Desenhista industrial (designer)
+27102900;Designers, All Other;271029;Designers, All Other;0;271029;2163;3471;262410;Desenhista industrial (designer)
+27201100;Actors;272011;Actors;0;272011;2655;2455;262505;Ator
+27201200;Producers and Directors;272012;Producers and Directors;0;272012;2654;1229;131305;Diretor de estabelecimento de ensino superior
+27201203;Media Programming Directors;272012;Producers and Directors;0;272012;2654;1229;131305;Diretor de estabelecimento de ensino superior
+27201204;Talent Directors;272012;Producers and Directors;0;272012;2654;1229;131305;Diretor de estabelecimento de ensino superior
+27201205;Media Technical Directors/Managers;272012;Producers and Directors;0;272012;2654;1229;131305;Diretor de estabelecimento de ensino superior
+27202100;Athletes and Sports Competitors;272021;Athletes and Sports Competitors;0;272021;3421;3475;224120;Preparador físico
+27202200;Coaches and Scouts;272022;Coaches and Scouts;0;272022;3422;3475;224120;Preparador físico
+27202300;Umpires, Referees, and Other Sports Officials;272023;Umpires, Referees, and Other Sports Officials;0;272023;3422;3475;224120;Preparador físico
+27203100;Dancers;272031;Dancers;0;272031;2653;2454;262815;Coreógrafo
+27203200;Choreographers;272032;Choreographers;0;272032;2653;2454;262815;Coreógrafo
+27204100;Music Directors and Composers;272041;Music Directors and Composers;0;272041;2652;2453;262605;Compositor musical
+27204200;Musicians and Singers;272042;Musicians and Singers;0;272042;2652;2453;262605;Compositor musical
+27209100;Disc Jockeys, Except Radio;272091;Disc Jockeys, Except Radio;0;272099;2659;3474;376245;Palhaço
+27209900;Entertainers and Performers, Sports and Related Workers, All Other;272099;Entertainers and Performers, Sports and Related Workers, All Other;0;272099;2659;3474;376245;Palhaço
+27301100;Broadcast Announcers and Radio Disc Jockeys;273011;Broadcast Announcers and Radio Disc Jockeys;0;273011;2656;3472;261715;Locutor
+27302300;News Analysts, Reporters, and Journalists;273023;News Analysts, Reporters, and Journalists;0;273021;2656;3472;261715;Locutor
+27303100;Public Relations Specialists;273031;Public Relations Specialists;0;273031;2432;2419;252105;Administrador
+27304100;Editors;273041;Editors;0;273041;2641;2451;261515;Escritor
+27304200;Technical Writers;273042;Technical Writers;0;273042;2641;2451;261515;Escritor
+27304300;Writers and Authors;273043;Writers and Authors;0;273043;2641;2451;261515;Escritor
+27304305;Poets, Lyricists and Creative Writers;273043;Writers and Authors;0;273043;2641;2451;261515;Escritor
+27309100;Interpreters and Translators;273091;Interpreters and Translators;0;273091;2643;2444;261405;Filólogo
+27309200;Court Reporters and Simultaneous Captioners;273092;Court Reporters and Simultaneous Captioners;0;232091;3343;3431;351305;Técnico de economia doméstica
+27309900;Media and Communication Workers, All Other;273099;Media and Communication Workers, All Other;0;273012;2656;3472;261715;Locutor
+27401100;Audio and Video Technicians;274011;Audio and Video Technicians;0;274011;3521;3131;261815;Fotógrafo retratista
+27401200;Broadcast Technicians;274012;Broadcast Technicians;0;274012;3521;3131;261815;Fotógrafo retratista
+27401400;Sound Engineering Technicians;274014;Sound Engineering Technicians;0;274014;3521;3131;261815;Fotógrafo retratista
+27401500;Lighting Technicians;274015;Lighting Technicians;0;274099;3435;1229;131305;Diretor de estabelecimento de ensino superior
+27402100;Photographers;274021;Photographers;0;274021;3431;3131;261815;Fotógrafo retratista
+27403100;Camera Operators, Television, Video, and Film;274031;Camera Operators, Television, Video, and Film;0;274031;3521;3131;261815;Fotógrafo retratista
+27403200;Film and Video Editors;274032;Film and Video Editors;0;274032;2654;1229;131305;Diretor de estabelecimento de ensino superior
+27409900;Media and Communication Equipment Workers, All Other;274099;Media and Communication Equipment Workers, All Other;0;274099;3435;1229;131305;Diretor de estabelecimento de ensino superior
+29101100;Chiropractors;291011;Chiropractors;1;291011;2269;2229;223710;Nutricionista
+29102100;Dentists, General;291021;Dentists, General;1;291021;2261;2222;223272;Cirurgião-dentista (saúde pública)
+29102200;Oral and Maxillofacial Surgeons;291022;Oral and Maxillofacial Surgeons;1;291022;2261;2222;223272;Cirurgião-dentista (saúde pública)
+29102300;Orthodontists;291023;Orthodontists;1;291023;2261;2222;223272;Cirurgião-dentista (saúde pública)
+29102400;Prosthodontists;291024;Prosthodontists;1;291024;2261;2222;223272;Cirurgião-dentista (saúde pública)
+29102900;Dentists, All Other Specialists;291029;Dentists, All Other Specialists;1;291029;2261;2222;223272;Cirurgião-dentista (saúde pública)
+29103100;Dietitians and Nutritionists;291031;Dietitians and Nutritionists;1;291031;2265;3223;#N/D;#N/D
+29104100;Optometrists;291041;Optometrists;1;291041;2267;3224;223910;Ortoptista
+29105100;Pharmacists;291051;Pharmacists;1;291051;2262;2113;213205;Químico
+29107100;Physician Assistants;291071;Physician Assistants;1;291071;2240;3221;#N/D;#N/D
+29107101;Anesthesiologist Assistants;291071;Physician Assistants;1;291071;2240;3221;#N/D;#N/D
+29108100;Podiatrists;291081;Podiatrists;1;291081;2269;2229;223710;Nutricionista
+29112200;Occupational Therapists;291122;Occupational Therapists;1;291122;2269;2229;223710;Nutricionista
+29112201;Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists;291122;Occupational Therapists;1;291122;2269;2229;223710;Nutricionista
+29112300;Physical Therapists;291123;Physical Therapists;1;291123;2264;3226;223605;Fisioterapeuta
+29112400;Radiation Therapists;291124;Radiation Therapists;1;291124;3211;3133;324115;Operador de raios X
+29112500;Recreational Therapists;291125;Recreational Therapists;1;291125;2269;2229;223710;Nutricionista
+29112600;Respiratory Therapists;291126;Respiratory Therapists;1;291126;3259;3229;#N/D;#N/D
+29112700;Speech-Language Pathologists;291127;Speech-Language Pathologists;1;291127;2266;3229;#N/D;#N/D
+29112800;Exercise Physiologists;291128;Exercise Physiologists;1;291128;2264;3226;223605;Fisioterapeuta
+29112900;Therapists, All Other;291129;Therapists, All Other;1;291129;2269;2229;223710;Nutricionista
+29112901;Art Therapists;291129;Therapists, All Other;1;291129;2269;2229;223710;Nutricionista
+29112902;Music Therapists;291129;Therapists, All Other;1;291129;2269;2229;223710;Nutricionista
+29113100;Veterinarians;291131;Veterinarians;1;291131;2250;2212;203015;Anatomista
+29114100;Registered Nurses;291141;Registered Nurses;1;291141;2221;2230;223560;Enfermeiro sanitarista
+29114101;Acute Care Nurses;291141;Registered Nurses;1;291141;2221;2230;223560;Enfermeiro sanitarista
+29114102;Advanced Practice Psychiatric Nurses;291141;Registered Nurses;1;291141;2221;2230;223560;Enfermeiro sanitarista
+29114103;Critical Care Nurses;291141;Registered Nurses;1;291141;2221;2230;223560;Enfermeiro sanitarista
+29114104;Clinical Nurse Specialists;291141;Registered Nurses;1;291141;2221;2230;223560;Enfermeiro sanitarista
+29115100;Nurse Anesthetists;291151;Nurse Anesthetists;1;291151;2221;2230;223560;Enfermeiro sanitarista
+29116100;Nurse Midwives;291161;Nurse Midwives;1;291161;2222;2230;223560;Enfermeiro sanitarista
+29117100;Nurse Practitioners;291171;Nurse Practitioners;1;291171;2221;2230;223560;Enfermeiro sanitarista
+29118100;Audiologists;291181;Audiologists;1;291181;2266;3229;#N/D;#N/D
+29121100;Anesthesiologists;291211;Anesthesiologists;1;291061;2212;2212;203015;Anatomista
+29121200;Cardiologists;291212;Cardiologists;1;291069;2211;2221;322105;Acupunturista
+29121300;Dermatologists;291213;Dermatologists;1;291069;2211;2221;322105;Acupunturista
+29121400;Emergency Medicine Physicians;291214;Emergency Medicine Physicians;1;291069;2211;2221;322105;Acupunturista
+29121500;Family Medicine Physicians;291215;Family Medicine Physicians;1;291062;2211;2221;322105;Acupunturista
+29121600;General Internal Medicine Physicians;291216;General Internal Medicine Physicians;1;291063;2211;2221;322105;Acupunturista
+29121700;Neurologists;291217;Neurologists;1;291069;2211;2221;322105;Acupunturista
+29121800;Obstetricians and Gynecologists;291218;Obstetricians and Gynecologists;1;291064;2212;2212;203015;Anatomista
+29122100;Pediatricians, General;291221;Pediatricians, General;1;291065;2211;2221;322105;Acupunturista
+29122200;Physicians, Pathologists;291222;Physicians, Pathologists;1;291069;2211;2221;322105;Acupunturista
+29122300;Psychiatrists;291223;Psychiatrists;1;291066;2212;2212;203015;Anatomista
+29122400;Radiologists;291224;Radiologists;1;291069;2211;2221;322105;Acupunturista
+29122900;Physicians, All Other;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29122901;Allergists and Immunologists;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29122902;Hospitalists;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29122903;Urologists;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29122904;Physical Medicine and Rehabilitation Physicians;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29122905;Preventive Medicine Physicians;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29122906;Sports Medicine Physicians;291229;Physicians, All Other;1;291069;2211;2221;322105;Acupunturista
+29124100;Ophthalmologists, Except Pediatric;291241;Ophthalmologists, Except Pediatric;1;291069;2211;2221;322105;Acupunturista
+29124200;Orthopedic Surgeons, Except Pediatric;291242;Orthopedic Surgeons, Except Pediatric;1;291067;2212;2212;203015;Anatomista
+29124300;Pediatric Surgeons;291243;Pediatric Surgeons;1;291067;2212;2212;203015;Anatomista
+29124900;Surgeons, All Other;291249;Surgeons, All Other;1;291067;2212;2212;203015;Anatomista
+29129100;Acupuncturists;291291;Acupuncturists;1;291199;2230;3229;#N/D;#N/D
+29129200;Dental Hygienists;291292;Dental Hygienists;1;292021;3251;3225;322405;Técnico em higiene dental
+29129900;Healthcare Diagnosing or Treating Practitioners, All Other;291299;Healthcare Diagnosing or Treating Practitioners, All Other;1;291199;2230;3229;#N/D;#N/D
+29129901;Naturopathic Physicians;291299;Healthcare Diagnosing or Treating Practitioners, All Other;1;291199;2230;3229;#N/D;#N/D
+29129902;Orthoptists;291299;Healthcare Diagnosing or Treating Practitioners, All Other;1;291199;2230;3229;#N/D;#N/D
+29201100;Medical and Clinical Laboratory Technologists;292011;Medical and Clinical Laboratory Technologists;1;292011;3212;3211;324205;Técnico de laboratório de análises clínicas
+29201101;Cytogenetic Technologists;292011;Medical and Clinical Laboratory Technologists;1;292011;3212;3211;324205;Técnico de laboratório de análises clínicas
+29201102;Cytotechnologists;292011;Medical and Clinical Laboratory Technologists;1;292011;3212;3211;324205;Técnico de laboratório de análises clínicas
+29201104;Histotechnologists;292011;Medical and Clinical Laboratory Technologists;1;292011;3212;3211;324205;Técnico de laboratório de análises clínicas
+29201200;Medical and Clinical Laboratory Technicians;292012;Medical and Clinical Laboratory Technicians;1;292012;3212;3211;324205;Técnico de laboratório de análises clínicas
+29201201;Histology Technicians;292012;Medical and Clinical Laboratory Technicians;1;292012;3212;3211;324205;Técnico de laboratório de análises clínicas
+29203100;Cardiovascular Technologists and Technicians;292031;Cardiovascular Technologists and Technicians;1;292031;3259;3229;#N/D;#N/D
+29203200;Diagnostic Medical Sonographers;292032;Diagnostic Medical Sonographers;1;292032;3211;3133;324115;Operador de raios X
+29203300;Nuclear Medicine Technologists;292033;Nuclear Medicine Technologists;1;292033;3211;3133;324115;Operador de raios X
+29203400;Radiologic Technologists and Technicians;292034;Radiologic Technologists and Technicians;1;292034;3211;3133;324115;Operador de raios X
+29203500;Magnetic Resonance Imaging Technologists;292035;Magnetic Resonance Imaging Technologists;1;292035;3211;3133;324115;Operador de raios X
+29203600;Medical Dosimetrists;292036;Medical Dosimetrists;1;292099;3259;3229;#N/D;#N/D
+29204200;Emergency Medical Technicians;292042;Emergency Medical Technicians;1;292041;3258;5132;322235;Auxiliar de enfermagem do trabalho
+29204300;Paramedics;292043;Paramedics;1;292041;3258;5132;322235;Auxiliar de enfermagem do trabalho
+29205100;Dietetic Technicians;292051;Dietetic Technicians;1;292051;3259;3229;#N/D;#N/D
+29205200;Pharmacy Technicians;292052;Pharmacy Technicians;1;292052;3213;3228;#N/D;#N/D
+29205300;Psychiatric Technicians;292053;Psychiatric Technicians;1;292053;3259;3229;#N/D;#N/D
+29205500;Surgical Technologists;292055;Surgical Technologists;1;292055;3259;3229;#N/D;#N/D
+29205600;Veterinary Technologists and Technicians;292056;Veterinary Technologists and Technicians;1;292056;3240;3227;#N/D;#N/D
+29205700;Ophthalmic Medical Technicians;292057;Ophthalmic Medical Technicians;1;292057;3256;3221;#N/D;#N/D
+29206100;Licensed Practical and Licensed Vocational Nurses;292061;Licensed Practical and Licensed Vocational Nurses;1;292061;3221;2230;223560;Enfermeiro sanitarista
+29207200;Medical Records Specialists;292072;Medical Records Specialists;1;292071;3252;4143;415115;Codificador de dados
+29208100;Opticians, Dispensing;292081;Opticians, Dispensing;1;292081;3254;3224;223910;Ortoptista
+29209100;Orthotists and Prosthetists;292091;Orthotists and Prosthetists;1;292091;3214;3226;223605;Fisioterapeuta
+29209200;Hearing Aid Specialists;292092;Hearing Aid Specialists;1;292092;3214;3226;223605;Fisioterapeuta
+29209900;Health Technologists and Technicians, All Other;292099;Health Technologists and Technicians, All Other;1;292054;3259;3229;#N/D;#N/D
+29209901;Neurodiagnostic Technologists;292099;Health Technologists and Technicians, All Other;1;292054;3259;3229;#N/D;#N/D
+29209905;Ophthalmic Medical Technologists;292099;Health Technologists and Technicians, All Other;1;292054;3259;3229;#N/D;#N/D
+29209908;Patient Representatives;292099;Health Technologists and Technicians, All Other;1;292054;3259;3229;#N/D;#N/D
+29902100;Health Information Technologists and Medical Registrars;299021;Health Information Technologists and Medical Registrars;1;292071;3252;4143;415115;Codificador de dados
+29909100;Athletic Trainers;299091;Athletic Trainers;1;299091;3423;3340;215315;Instrutor de vôo
+29909200;Genetic Counselors;299092;Genetic Counselors;1;299092;2269;2229;223710;Nutricionista
+29909300;Surgical Assistants;299093;Surgical Assistants;1;299099;3222;2230;223560;Enfermeiro sanitarista
+29909900;Healthcare Practitioners and Technical Workers, All Other;299099;Healthcare Practitioners and Technical Workers, All Other;1;299099;3222;2230;223560;Enfermeiro sanitarista
+29909901;Midwives;299099;Healthcare Practitioners and Technical Workers, All Other;1;299099;3222;2230;223560;Enfermeiro sanitarista
+31112100;Home Health Aides;311121;Home Health Aides;0;311011;5322;5133;#N/D;#N/D
+31112200;Personal Care Aides;311122;Personal Care Aides;0;399021;5322;5133;#N/D;#N/D
+31113100;Nursing Assistants;311131;Nursing Assistants;0;311014;5321;5132;322235;Auxiliar de enfermagem do trabalho
+31113200;Orderlies;311132;Orderlies;0;311015;5329;5132;322235;Auxiliar de enfermagem do trabalho
+31113300;Psychiatric Aides;311133;Psychiatric Aides;0;311013;5321;5132;322235;Auxiliar de enfermagem do trabalho
+31201100;Occupational Therapy Assistants;312011;Occupational Therapy Assistants;0;312011;3259;3229;#N/D;#N/D
+31201200;Occupational Therapy Aides;312012;Occupational Therapy Aides;0;312012;5329;5132;322235;Auxiliar de enfermagem do trabalho
+31202100;Physical Therapist Assistants;312021;Physical Therapist Assistants;0;312021;3255;3226;223605;Fisioterapeuta
+31202200;Physical Therapist Aides;312022;Physical Therapist Aides;0;312022;5329;5132;322235;Auxiliar de enfermagem do trabalho
+31901100;Massage Therapists;319011;Massage Therapists;0;319011;3255;3226;223605;Fisioterapeuta
+31909100;Dental Assistants;319091;Dental Assistants;0;319091;3251;3225;322405;Técnico em higiene dental
+31909200;Medical Assistants;319092;Medical Assistants;0;319092;3256;3221;#N/D;#N/D
+31909300;Medical Equipment Preparers;319093;Medical Equipment Preparers;0;319093;5329;5132;322235;Auxiliar de enfermagem do trabalho
+31909400;Medical Transcriptionists;319094;Medical Transcriptionists;0;319094;3344;3431;351305;Técnico de economia doméstica
+31909500;Pharmacy Aides;319095;Pharmacy Aides;0;319095;5329;5132;322235;Auxiliar de enfermagem do trabalho
+31909600;Veterinary Assistants and Laboratory Animal Caretakers;319096;Veterinary Assistants and Laboratory Animal Caretakers;0;319096;3240;3227;#N/D;#N/D
+31909700;Phlebotomists;319097;Phlebotomists;0;319097;5329;5132;322235;Auxiliar de enfermagem do trabalho
+31909900;Healthcare Support Workers, All Other;319099;Healthcare Support Workers, All Other;0;319099;3259;3229;#N/D;#N/D
+31909901;Speech-Language Pathology Assistants;319099;Healthcare Support Workers, All Other;0;319099;3259;3229;#N/D;#N/D
+31909902;Endoscopy Technicians;319099;Healthcare Support Workers, All Other;0;319099;3259;3229;#N/D;#N/D
+33101100;First-Line Supervisors of Correctional Officers;331011;First-Line Supervisors of Correctional Officers;0;331011;5413;5163;517315;Guarda de presídio
+33101200;First-Line Supervisors of Police and Detectives;331012;First-Line Supervisors of Police and Detectives;0;331012;3351;3441;#N/D;#N/D
+33102100;First-Line Supervisors of Firefighting and Prevention Workers;331021;First-Line Supervisors of Firefighting and Prevention Workers;0;331021;3112;3112;312105;Técnico de obras civis
+33109100;First-Line Supervisors of Security Workers;331091;First-Line Supervisors of Security Workers;0;331099;5414;5169;517330;Guarda de segurança
+33109900;First-Line Supervisors of Protective Service Workers, All Other;331099;First-Line Supervisors of Protective Service Workers, All Other;0;331099;5414;5169;517330;Guarda de segurança
+33201100;Firefighters;332011;Firefighters;0;332011;5411;5161;517105;Bombeiro de aeroporto
+33202100;Fire Inspectors and Investigators;332021;Fire Inspectors and Investigators;0;332021;3112;3112;312105;Técnico de obras civis
+33202200;Forest Fire Inspectors and Prevention Specialists;332022;Forest Fire Inspectors and Prevention Specialists;0;332022;3119;3119;311615;Técnico têxtil (fiação)
+33301100;Bailiffs;333011;Bailiffs;0;333011;3411;3432;241335;Tabelião
+33301200;Correctional Officers and Jailers;333012;Correctional Officers and Jailers;0;333012;5413;5163;517315;Guarda de presídio
+33302100;Detectives and Criminal Investigators;333021;Detectives and Criminal Investigators;0;333021;3355;3450;242305;Delegado de polícia
+33302102;Police Identification and Records Officers;333021;Detectives and Criminal Investigators;0;333021;3355;3450;242305;Delegado de polícia
+33302106;Intelligence Analysts;333021;Detectives and Criminal Investigators;0;333021;3355;3450;242305;Delegado de polícia
+33303100;Fish and Game Wardens;333031;Fish and Game Wardens;0;333031;5419;5169;517330;Guarda de segurança
+33304100;Parking Enforcement Workers;333041;Parking Enforcement Workers;0;333041;5419;5169;517330;Guarda de segurança
+33305100;Police and Sheriff's Patrol Officers;333051;Police and Sheriff's Patrol Officers;0;333051;3351;3441;#N/D;#N/D
+33305104;Customs and Border Protection Officers;333051;Police and Sheriff's Patrol Officers;0;333051;3351;3441;#N/D;#N/D
+33305200;Transit and Railroad Police;333052;Transit and Railroad Police;0;333052;5412;5162;517205;Agente de polícia
+33901100;Animal Control Workers;339011;Animal Control Workers;0;339011;5419;5169;517330;Guarda de segurança
+33902100;Private Detectives and Investigators;339021;Private Detectives and Investigators;0;339021;3411;3432;241335;Tabelião
+33903100;Gambling Surveillance Officers and Gambling Investigators;339031;Gambling Surveillance Officers and Gambling Investigators;0;339031;3411;3432;241335;Tabelião
+33903200;Security Guards;339032;Security Guards;0;339032;5414;5169;517330;Guarda de segurança
+33909100;Crossing Guards and Flaggers;339091;Crossing Guards and Flaggers;0;339091;5419;5169;517330;Guarda de segurança
+33909200;Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers;339092;Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers;0;339092;5419;5169;517330;Guarda de segurança
+33909300;Transportation Security Screeners;339093;Transportation Security Screeners;0;339093;5414;5169;517330;Guarda de segurança
+33909400;School Bus Monitors;339094;School Bus Monitors;0;339099;5419;5169;517330;Guarda de segurança
+33909900;Protective Service Workers, All Other;339099;Protective Service Workers, All Other;0;339099;5419;5169;517330;Guarda de segurança
+33909902;Retail Loss Prevention Specialists;339099;Protective Service Workers, All Other;0;339099;5419;5169;517330;Guarda de segurança
+35101100;Chefs and Head Cooks;351011;Chefs and Head Cooks;0;351011;3434;5122;513205;Cozinheiro
+35101200;First-Line Supervisors of Food Preparation and Serving Workers;351012;First-Line Supervisors of Food Preparation and Serving Workers;0;351012;3434;5122;513205;Cozinheiro
+35201100;Cooks, Fast Food;352011;Cooks, Fast Food;0;352011;9411;5122;513205;Cozinheiro
+35201200;Cooks, Institution and Cafeteria;352012;Cooks, Institution and Cafeteria;0;352012;5120;5122;513205;Cozinheiro
+35201300;Cooks, Private Household;352013;Cooks, Private Household;0;352013;5120;5122;513205;Cozinheiro
+35201400;Cooks, Restaurant;352014;Cooks, Restaurant;0;352014;5120;5122;513205;Cozinheiro
+35201500;Cooks, Short Order;352015;Cooks, Short Order;0;352015;5120;5122;513205;Cozinheiro
+35201900;Cooks, All Other;352019;Cooks, All Other;0;352019;5120;5122;513205;Cozinheiro
+35202100;Food Preparation Workers;352021;Food Preparation Workers;0;352021;9412;9132;513315;Camareiro (hotel)
+35301100;Bartenders;353011;Bartenders;0;353011;5132;5123;510135;Maitre
+35302300;Fast Food and Counter Workers;353023;Fast Food and Counter Workers;0;353021;5246;5220;521105;Vendedor de comércio atacadista
+35302301;Baristas;353023;Fast Food and Counter Workers;0;353021;5246;5220;521105;Vendedor de comércio atacadista
+35303100;Waiters and Waitresses;353031;Waiters and Waitresses;0;353031;5131;5123;510135;Maitre
+35304100;Food Servers, Nonrestaurant;353041;Food Servers, Nonrestaurant;0;353041;5212;9111;524310;Pipoqueiro
+35901100;Dining Room and Cafeteria Attendants and Bartender Helpers;359011;Dining Room and Cafeteria Attendants and Bartender Helpers;0;359011;5246;5220;521105;Vendedor de comércio atacadista
+35902100;Dishwashers;359021;Dishwashers;0;359021;9412;9132;513315;Camareiro (hotel)
+35903100;Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop;359031;Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop;0;359031;5169;5149;#N/D;#N/D
+35909900;Food Preparation and Serving Related Workers, All Other;359099;Food Preparation and Serving Related Workers, All Other;0;359099;9412;9132;513315;Camareiro (hotel)
+37101100;First-Line Supervisors of Housekeeping and Janitorial Workers;371011;First-Line Supervisors of Housekeeping and Janitorial Workers;0;371011;5151;5121;513110;Mordomo (exceto serviço doméstico e embarcações)
+37101200;First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers;371012;First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers;0;371012;6113;1311;620105;Administrador de exploração agrícola
+37201100;Janitors and Cleaners, Except Maids and Housekeeping Cleaners;372011;Janitors and Cleaners, Except Maids and Housekeeping Cleaners;0;372011;5153;9141;510110;Administrador de edifício
+37201200;Maids and Housekeeping Cleaners;372012;Maids and Housekeeping Cleaners;0;372012;9111;9131;512105;Empregada doméstica
+37201900;Building Cleaning Workers, All Other;372019;Building Cleaning Workers, All Other;0;372019;7133;7143;514315;Limpador de fachadas
+37202100;Pest Control Workers;372021;Pest Control Workers;0;372021;7544;7143;514315;Limpador de fachadas
+37301100;Landscaping and Groundskeeping Workers;373011;Landscaping and Groundskeeping Workers;0;373011;9214;6113;612305;Horticultor
+37301200;Pesticide Handlers, Sprayers, and Applicators, Vegetation;373012;Pesticide Handlers, Sprayers, and Applicators, Vegetation;0;373012;7544;7143;514315;Limpador de fachadas
+37301300;Tree Trimmers and Pruners;373013;Tree Trimmers and Pruners;0;373013;6113;1311;620105;Administrador de exploração agrícola
+37301900;Grounds Maintenance Workers, All Other;373019;Grounds Maintenance Workers, All Other;0;373019;9214;6113;612305;Horticultor
+39101300;First-Line Supervisors of Gambling Services Workers;391013;First-Line Supervisors of Gambling Services Workers;0;391011;4212;4211;421125;Operador de caixa
+39101400;First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services;391014;First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services;0;391021;3423;3340;215315;Instrutor de vôo
+39102200;First-Line Supervisors of Personal Service Workers;391022;First-Line Supervisors of Personal Service Workers;0;391021;3423;3340;215315;Instrutor de vôo
+39201100;Animal Trainers;392011;Animal Trainers;0;392011;5164;5139;521130;Auxiliar de farmácia
+39202100;Animal Caretakers;392021;Animal Caretakers;0;392021;5164;5139;521130;Auxiliar de farmácia
+39301100;Gambling Dealers;393011;Gambling Dealers;0;393011;4212;4211;421125;Operador de caixa
+39301200;Gambling and Sports Book Writers and Runners;393012;Gambling and Sports Book Writers and Runners;0;393012;4212;4211;421125;Operador de caixa
+39301900;Gambling Service Workers, All Other;393019;Gambling Service Workers, All Other;0;393019;4212;4211;421125;Operador de caixa
+39302100;Motion Picture Projectionists;393021;Motion Picture Projectionists;0;393021;9629;9152;510120;Chefe de portaria (hotel)
+39303100;Ushers, Lobby Attendants, and Ticket Takers;393031;Ushers, Lobby Attendants, and Ticket Takers;0;393031;9629;9152;510120;Chefe de portaria (hotel)
+39309100;Amusement and Recreation Attendants;393091;Amusement and Recreation Attendants;0;393091;8343;8333;782130;Operador de ponte rolante
+39309200;Costume Attendants;393092;Costume Attendants;0;393092;3435;1229;131305;Diretor de estabelecimento de ensino superior
+39309300;Locker Room, Coatroom, and Dressing Room Attendants;393093;Locker Room, Coatroom, and Dressing Room Attendants;0;393093;9629;9152;510120;Chefe de portaria (hotel)
+39309900;Entertainment Attendants and Related Workers, All Other;393099;Entertainment Attendants and Related Workers, All Other;0;393099;3435;1229;131305;Diretor de estabelecimento de ensino superior
+39401100;Embalmers;394011;Embalmers;0;394011;5163;5143;516505;Agente funerário
+39401200;Crematory Operators;394012;Crematory Operators;0;399099;5162;5142;#N/D;#N/D
+39402100;Funeral Attendants;394021;Funeral Attendants;0;394021;5163;5143;516505;Agente funerário
+39403100;Morticians, Undertakers, and Funeral Arrangers;394031;Morticians, Undertakers, and Funeral Arrangers;0;394031;5163;5143;516505;Agente funerário
+39501100;Barbers;395011;Barbers;0;395011;5141;5141;516110;Cabeleireiro
+39501200;Hairdressers, Hairstylists, and Cosmetologists;395012;Hairdressers, Hairstylists, and Cosmetologists;0;395012;5141;5141;516110;Cabeleireiro
+39509100;Makeup Artists, Theatrical and Performance;395091;Makeup Artists, Theatrical and Performance;0;395091;5142;5141;516110;Cabeleireiro
+39509200;Manicurists and Pedicurists;395092;Manicurists and Pedicurists;0;395092;5142;5141;516110;Cabeleireiro
+39509300;Shampooers;395093;Shampooers;0;395093;5142;5141;516110;Cabeleireiro
+39509400;Skincare Specialists;395094;Skincare Specialists;0;395094;5142;5141;516110;Cabeleireiro
+39601100;Baggage Porters and Bellhops;396011;Baggage Porters and Bellhops;0;396011;9621;9151;412205;Contínuo
+39601200;Concierges;396012;Concierges;0;396012;4224;4222;422125;Recepcionista de banco
+39701100;Tour Guides and Escorts;397011;Tour Guides and Escorts;0;397011;5113;5113;511405;Guia de turismo (excursão nacional)
+39701200;Travel Guides;397012;Travel Guides;0;397012;5113;5113;511405;Guia de turismo (excursão nacional)
+39901100;Childcare Workers;399011;Childcare Workers;0;399011;5311;5131;516205;Babá
+39901101;Nannies;399011;Childcare Workers;0;399011;5311;5131;516205;Babá
+39903100;Exercise Trainers and Group Fitness Instructors;399031;Exercise Trainers and Group Fitness Instructors;0;399031;3423;3340;215315;Instrutor de vôo
+39903200;Recreation Workers;399032;Recreation Workers;0;399032;5169;5149;#N/D;#N/D
+39904100;Residential Advisors;399041;Residential Advisors;0;399041;5169;5149;#N/D;#N/D
+39909900;Personal Care and Service Workers, All Other;399099;Personal Care and Service Workers, All Other;0;399099;5162;5142;#N/D;#N/D
+41101100;First-Line Supervisors of Retail Sales Workers;411011;First-Line Supervisors of Retail Sales Workers;0;411011;5222;5220;521105;Vendedor de comércio atacadista
+41101200;First-Line Supervisors of Non-Retail Sales Workers;411012;First-Line Supervisors of Non-Retail Sales Workers;0;411012;2433;3415;520110;Supervisor de vendas (comércio atacadista)
+41201100;Cashiers;412011;Cashiers;0;412011;5230;4211;421125;Operador de caixa
+41201200;Gambling Change Persons and Booth Cashiers;412012;Gambling Change Persons and Booth Cashiers;0;412012;5230;4211;421125;Operador de caixa
+41202100;Counter and Rental Clerks;412021;Counter and Rental Clerks;0;412021;5249;5220;521105;Vendedor de comércio atacadista
+41202200;Parts Salespersons;412022;Parts Salespersons;0;412022;5223;5220;521105;Vendedor de comércio atacadista
+41203100;Retail Salespersons;412031;Retail Salespersons;0;412031;5223;5220;521105;Vendedor de comércio atacadista
+41301100;Advertising Sales Agents;413011;Advertising Sales Agents;0;413011;3339;2419;252105;Administrador
+41302100;Insurance Sales Agents;413021;Insurance Sales Agents;0;413021;3321;3412;351720;Assistente técnico de seguros
+41303100;Securities, Commodities, and Financial Services Sales Agents;413031;Securities, Commodities, and Financial Services Sales Agents;0;413031;3311;3411;253305;Operador de câmbio
+41304100;Travel Agents;413041;Travel Agents;0;413041;3339;2419;252105;Administrador
+41309100;Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel;413091;Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel;0;413099;3322;3415;520110;Supervisor de vendas (comércio atacadista)
+41401100;Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products;414011;Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products;1;414011;2433;3415;520110;Supervisor de vendas (comércio atacadista)
+41401107;Solar Sales Representatives and Assessors;414011;Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products;1;414011;2433;3415;520110;Supervisor de vendas (comércio atacadista)
+41401200;Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products;414012;Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products;0;414012;3322;3415;520110;Supervisor de vendas (comércio atacadista)
+41901100;Demonstrators and Product Promoters;419011;Demonstrators and Product Promoters;0;419011;5242;5220;521105;Vendedor de comércio atacadista
+41901200;Models;419012;Models;0;419012;5241;5210;376410;Modelo de modas
+41902100;Real Estate Brokers;419021;Real Estate Brokers;0;419021;3334;3413;354605;Corretor de imóveis
+41902200;Real Estate Sales Agents;419022;Real Estate Sales Agents;0;419022;3334;3413;354605;Corretor de imóveis
+41903100;Sales Engineers;419031;Sales Engineers;1;419031;2434;3415;520110;Supervisor de vendas (comércio atacadista)
+41904100;Telemarketers;419041;Telemarketers;0;419041;5244;9113;422315;Operador de telemarketing
+41909100;Door-to-Door Sales Workers, News and Street Vendors, and Related Workers;419091;Door-to-Door Sales Workers, News and Street Vendors, and Related Workers;0;419091;5211;5230;#N/D;#N/D
+41909900;Sales and Related Workers, All Other;419099;Sales and Related Workers, All Other;0;419099;3339;2419;252105;Administrador
+43101100;First-Line Supervisors of Office and Administrative Support Workers;431011;First-Line Supervisors of Office and Administrative Support Workers;0;431011;3341;3431;351305;Técnico de economia doméstica
+43201100;Switchboard Operators, Including Answering Service;432011;Switchboard Operators, Including Answering Service;0;432011;4223;4223;422205;Telefonista
+43202100;Telephone Operators;432021;Telephone Operators;0;432021;4223;4223;422205;Telefonista
+43209900;Communications Equipment Operators, All Other;432099;Communications Equipment Operators, All Other;0;274013;3521;3131;261815;Fotógrafo retratista
+43301100;Bill and Account Collectors;433011;Bill and Account Collectors;0;433011;4214;4215;413230;Analista de crédito e cobrança
+43302100;Billing and Posting Clerks;433021;Billing and Posting Clerks;0;433021;4311;4121;413110;Auxiliar de contabilidade
+43303100;Bookkeeping, Accounting, and Auditing Clerks;433031;Bookkeeping, Accounting, and Auditing Clerks;0;433031;3313;3433;351105;Técnico de contabilidade
+43304100;Gambling Cage Workers;433041;Gambling Cage Workers;0;433041;4212;4211;421125;Operador de caixa
+43305100;Payroll and Timekeeping Clerks;433051;Payroll and Timekeeping Clerks;0;433051;4313;4121;413110;Auxiliar de contabilidade
+43306100;Procurement Clerks;433061;Procurement Clerks;0;433061;4110;4190;#N/D;#N/D
+43307100;Tellers;433071;Tellers;0;433071;4211;4211;421125;Operador de caixa
+43309900;Financial Clerks, All Other;433099;Financial Clerks, All Other;0;433099;4213;4214;#N/D;#N/D
+43401100;Brokerage Clerks;434011;Brokerage Clerks;0;434011;4312;4122;353225;Operador de produtos (financeiros)
+43402100;Correspondence Clerks;434021;Correspondence Clerks;0;434021;4225;4222;422125;Recepcionista de banco
+43403100;Court, Municipal, and License Clerks;434031;Court, Municipal, and License Clerks;0;434031;3354;3444;352205;Agente de defesa florestal
+43404100;Credit Authorizers, Checkers, and Clerks;434041;Credit Authorizers, Checkers, and Clerks;0;434041;4312;4122;353225;Operador de produtos (financeiros)
+43405100;Customer Service Representatives;434051;Customer Service Representatives;0;434051;4222;4222;422125;Recepcionista de banco
+43406100;Eligibility Interviewers, Government Programs;434061;Eligibility Interviewers, Government Programs;0;434061;3353;3443;254405;Fiscal de tributos da Fazenda Pública
+43407100;File Clerks;434071;File Clerks;0;434071;4415;4141;371105;Auxiliar de biblioteca
+43408100;Hotel, Motel, and Resort Desk Clerks;434081;Hotel, Motel, and Resort Desk Clerks;0;434081;4224;4222;422125;Recepcionista de banco
+43411100;Interviewers, Except Eligibility and Loan;434111;Interviewers, Except Eligibility and Loan;0;434111;4227;4190;#N/D;#N/D
+43412100;Library Assistants, Clerical;434121;Library Assistants, Clerical;0;434121;4411;4141;371105;Auxiliar de biblioteca
+43413100;Loan Interviewers and Clerks;434131;Loan Interviewers and Clerks;0;434131;4312;4122;353225;Operador de produtos (financeiros)
+43414100;New Accounts Clerks;434141;New Accounts Clerks;0;434141;4312;4122;353225;Operador de produtos (financeiros)
+43415100;Order Clerks;434151;Order Clerks;0;434151;4419;4190;#N/D;#N/D
+43416100;Human Resources Assistants, Except Payroll and Timekeeping;434161;Human Resources Assistants, Except Payroll and Timekeeping;0;434161;4416;4190;#N/D;#N/D
+43417100;Receptionists and Information Clerks;434171;Receptionists and Information Clerks;0;434171;4225;4222;422125;Recepcionista de banco
+43418100;Reservation and Transportation Ticket Agents and Travel Clerks;434181;Reservation and Transportation Ticket Agents and Travel Clerks;0;434181;4221;3414;354815;Agente de viagem
+43419900;Information and Record Clerks, All Other;434199;Information and Record Clerks, All Other;0;434199;4229;4222;422125;Recepcionista de banco
+43501100;Cargo and Freight Agents;435011;Cargo and Freight Agents;0;435011;3324;3421;#N/D;#N/D
+43501101;Freight Forwarders;435011;Cargo and Freight Agents;0;435011;3324;3421;#N/D;#N/D
+43502100;Couriers and Messengers;435021;Couriers and Messengers;0;435021;4412;4142;415210;Classificador de correspondência
+43503100;Public Safety Telecommunicators;435031;Public Safety Telecommunicators;0;435031;5419;5169;517330;Guarda de segurança
+43503200;Dispatchers, Except Police, Fire, and Ambulance;435032;Dispatchers, Except Police, Fire, and Ambulance;0;435032;4323;4133;342410;Agente de movimento (ferrovias)
+43504100;Meter Readers, Utilities;435041;Meter Readers, Utilities;0;435041;9623;9153;519940;Distribuidor (coletor de fichas telefônicas)
+43505100;Postal Service Clerks;435051;Postal Service Clerks;0;435051;4412;4142;415210;Classificador de correspondência
+43505200;Postal Service Mail Carriers;435052;Postal Service Mail Carriers;0;435052;4412;4142;415210;Classificador de correspondência
+43505300;Postal Service Mail Sorters, Processors, and Processing Machine Operators;435053;Postal Service Mail Sorters, Processors, and Processing Machine Operators;0;435053;4412;4142;415210;Classificador de correspondência
+43506100;Production, Planning, and Expediting Clerks;435061;Production, Planning, and Expediting Clerks;0;435061;4322;4132;414205;Apontador de mão-de-obra
+43507100;Shipping, Receiving, and Inventory Clerks;435071;Shipping, Receiving, and Inventory Clerks;0;435071;3331;3422;342210;Despachante aduaneiro
+43511100;Weighers, Measurers, Checkers, and Samplers, Recordkeeping;435111;Weighers, Measurers, Checkers, and Samplers, Recordkeeping;0;435111;4321;4131;414105;Almoxarife
+43601100;Executive Secretaries and Executive Administrative Assistants;436011;Executive Secretaries and Executive Administrative Assistants;0;436011;3343;3431;351305;Técnico de economia doméstica
+43601200;Legal Secretaries and Administrative Assistants;436012;Legal Secretaries and Administrative Assistants;0;436012;3342;3431;351305;Técnico de economia doméstica
+43601300;Medical Secretaries and Administrative Assistants;436013;Medical Secretaries and Administrative Assistants;0;436013;3344;3431;351305;Técnico de economia doméstica
+43601400;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;436014;Secretaries and Administrative Assistants, Except Legal, Medical, and Executive;0;436014;4120;4115;252305;Secretário executivo
+43902100;Data Entry Keyers;439021;Data Entry Keyers;0;439021;4132;4113;411010;Agente administrativo
+43902200;Word Processors and Typists;439022;Word Processors and Typists;0;439022;4131;4111;412105;Datilógrafo
+43903100;Desktop Publishers;439031;Desktop Publishers;0;439031;7321;7341;768615;Compositor manual
+43904100;Insurance Claims and Policy Processing Clerks;439041;Insurance Claims and Policy Processing Clerks;0;439041;4312;4122;353225;Operador de produtos (financeiros)
+43905100;Mail Clerks and Mail Machine Operators, Except Postal Service;439051;Mail Clerks and Mail Machine Operators, Except Postal Service;0;439051;4412;4142;415210;Classificador de correspondência
+43906100;Office Clerks, General;439061;Office Clerks, General;0;439061;4110;4190;#N/D;#N/D
+43907100;Office Machine Operators, Except Computer;439071;Office Machine Operators, Except Computer;0;439071;4415;4141;371105;Auxiliar de biblioteca
+43908100;Proofreaders and Copy Markers;439081;Proofreaders and Copy Markers;0;439081;4413;4143;415115;Codificador de dados
+43911100;Statistical Assistants;439111;Statistical Assistants;0;439111;3314;3434;424125;Técnico de estatística
+43919900;Office and Administrative Support Workers, All Other;439199;Office and Administrative Support Workers, All Other;0;439199;4419;4190;#N/D;#N/D
+45101100;First-Line Supervisors of Farming, Fishing, and Forestry Workers;451011;First-Line Supervisors of Farming, Fishing, and Forestry Workers;0;451011;6111;1311;620105;Administrador de exploração agrícola
+45201100;Agricultural Inspectors;452011;Agricultural Inspectors;0;452011;7515;7415;848405;Degustador de café
+45202100;Animal Breeders;452021;Animal Breeders;0;452021;6121;1311;620105;Administrador de exploração agrícola
+45204100;Graders and Sorters, Agricultural Products;452041;Graders and Sorters, Agricultural Products;0;452041;7515;7415;848405;Degustador de café
+45209100;Agricultural Equipment Operators;452091;Agricultural Equipment Operators;0;452091;6111;1311;620105;Administrador de exploração agrícola
+45209200;Farmworkers and Laborers, Crop, Nursery, and Greenhouse;452092;Farmworkers and Laborers, Crop, Nursery, and Greenhouse;0;452092;6310;6210;#N/D;#N/D
+45209300;Farmworkers, Farm, Ranch, and Aquacultural Animals;452093;Farmworkers, Farm, Ranch, and Aquacultural Animals;0;452093;6320;6210;#N/D;#N/D
+45209900;Agricultural Workers, All Other;452099;Agricultural Workers, All Other;0;452099;9211;9211;622020;Trabalhador agrícola polivalente
+45303100;Fishing and Hunting Workers;453031;Fishing and Hunting Workers;0;453011;6222;1311;620105;Administrador de exploração agrícola
+45401100;Forest and Conservation Workers;454011;Forest and Conservation Workers;0;454011;6210;1311;620105;Administrador de exploração agrícola
+45402100;Fallers;454021;Fallers;0;454021;6210;1311;620105;Administrador de exploração agrícola
+45402200;Logging Equipment Operators;454022;Logging Equipment Operators;0;454022;6210;1311;620105;Administrador de exploração agrícola
+45402300;Log Graders and Scalers;454023;Log Graders and Scalers;0;454023;6210;1311;620105;Administrador de exploração agrícola
+45402900;Logging Workers, All Other;454029;Logging Workers, All Other;0;454029;6210;1311;620105;Administrador de exploração agrícola
+47101100;First-Line Supervisors of Construction Trades and Extraction Workers;471011;First-Line Supervisors of Construction Trades and Extraction Workers;0;471011;3123;1223;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+47101103;Solar Energy Installation Managers;471011;First-Line Supervisors of Construction Trades and Extraction Workers;0;471011;3123;1223;121010;Diretor de estabelecimento de ensino (exceto ensino superior)
+47201100;Boilermakers;472011;Boilermakers;0;472011;7213;7213;724225;Riscador de chapas
+47202100;Brickmasons and Blockmasons;472021;Brickmasons and Blockmasons;0;472021;7112;7122;715230;Pedreiro de edificações
+47202200;Stonemasons;472022;Stonemasons;0;472022;7113;7113;711115;Destroçador de pedras
+47203100;Carpenters;472031;Carpenters;0;472031;7115;7124;715525;Carpinteiro (obras)
+47204100;Carpet Installers;472041;Carpet Installers;0;472041;7122;7132;716525;Marmorista (construção)
+47204200;Floor Layers, Except Carpet, Wood, and Hard Tiles;472042;Floor Layers, Except Carpet, Wood, and Hard Tiles;0;472042;7122;7132;716525;Marmorista (construção)
+47204300;Floor Sanders and Finishers;472043;Floor Sanders and Finishers;0;472043;7122;7132;716525;Marmorista (construção)
+47204400;Tile and Stone Setters;472044;Tile and Stone Setters;0;472044;7122;7132;716525;Marmorista (construção)
+47205100;Cement Masons and Concrete Finishers;472051;Cement Masons and Concrete Finishers;0;472051;7114;7123;715310;Moldador de corpos de prova em usina de concreto
+47205300;Terrazzo Workers and Finishers;472053;Terrazzo Workers and Finishers;0;472053;7114;7123;715310;Moldador de corpos de prova em usina de concreto
+47206100;Construction Laborers;472061;Construction Laborers;0;472061;9313;9313;#N/D;#N/D
+47207100;Paving, Surfacing, and Tamping Equipment Operators;472071;Paving, Surfacing, and Tamping Equipment Operators;0;472071;8342;8332;715115;Operador de escavadeiras
+47207200;Pile Driver Operators;472072;Pile Driver Operators;0;472072;8342;8332;715115;Operador de escavadeiras
+47207300;Operating Engineers and Other Construction Equipment Operators;472073;Operating Engineers and Other Construction Equipment Operators;0;472073;8342;8332;715115;Operador de escavadeiras
+47208100;Drywall and Ceiling Tile Installers;472081;Drywall and Ceiling Tile Installers;0;472081;7123;7133;715210;Pedreiro
+47208200;Tapers;472082;Tapers;0;472082;7123;7133;715210;Pedreiro
+47211100;Electricians;472111;Electricians;0;472111;7411;7137;951105;Eletricista de manutenção
+47212100;Glaziers;472121;Glaziers;0;472121;7125;7135;716310;Vidraceiro (edificações)
+47213100;Insulation Workers, Floor, Ceiling, and Wall;472131;Insulation Workers, Floor, Ceiling, and Wall;0;472131;7124;7134;715705;Aplicador  de asfalto impermeabilizante  (coberturas)
+47213200;Insulation Workers, Mechanical;472132;Insulation Workers, Mechanical;0;472132;7124;7134;715705;Aplicador  de asfalto impermeabilizante  (coberturas)
+47214100;Painters, Construction and Maintenance;472141;Painters, Construction and Maintenance;0;472141;7131;7141;716610;Pintor de obras
+47214200;Paperhangers;472142;Paperhangers;0;472142;7131;7141;716610;Pintor de obras
+47215100;Pipelayers;472151;Pipelayers;0;472151;7126;7136;724130;Instalador  de tubulações de gás combustível (produção e distribuição)
+47215200;Plumbers, Pipefitters, and Steamfitters;472152;Plumbers, Pipefitters, and Steamfitters;0;472152;7126;7136;724130;Instalador  de tubulações de gás combustível (produção e distribuição)
+47215204;Solar Thermal Installers and Technicians;472152;Plumbers, Pipefitters, and Steamfitters;0;472152;7126;7136;724130;Instalador  de tubulações de gás combustível (produção e distribuição)
+47216100;Plasterers and Stucco Masons;472161;Plasterers and Stucco Masons;0;472161;7123;7133;715210;Pedreiro
+47217100;Reinforcing Iron and Rebar Workers;472171;Reinforcing Iron and Rebar Workers;0;472171;7214;7214;724225;Riscador de chapas
+47218100;Roofers;472181;Roofers;0;472181;7121;7131;716205;Telhador
+47221100;Sheet Metal Workers;472211;Sheet Metal Workers;0;472211;7213;7213;724225;Riscador de chapas
+47222100;Structural Iron and Steel Workers;472221;Structural Iron and Steel Workers;0;472221;7214;7214;724225;Riscador de chapas
+47223100;Solar Photovoltaic Installers;472231;Solar Photovoltaic Installers;0;472231;7119;7129;514325;Trabalhador da manunteção de edificações
+47301100;Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters;473011;Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters;0;473011;9313;9313;#N/D;#N/D
+47301200;Helpers--Carpenters;473012;Helpers--Carpenters;0;473012;9313;9313;#N/D;#N/D
+47301300;Helpers--Electricians;473013;Helpers--Electricians;0;473013;9313;9313;#N/D;#N/D
+47301400;Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons;473014;Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons;0;473014;9313;9313;#N/D;#N/D
+47301500;Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters;473015;Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters;0;473015;9313;9313;#N/D;#N/D
+47301600;Helpers--Roofers;473016;Helpers--Roofers;0;473016;9313;9313;#N/D;#N/D
+47301900;Helpers, Construction Trades, All Other;473019;Helpers, Construction Trades, All Other;0;473019;9312;9312;991105;Conservador de ferrovias
+47401100;Construction and Building Inspectors;474011;Construction and Building Inspectors;0;474011;3112;3112;312105;Técnico de obras civis
+47401101;Energy Auditors;474011;Construction and Building Inspectors;0;474011;3112;3112;312105;Técnico de obras civis
+47402100;Elevator and Escalator Installers and Repairers;474021;Elevator and Escalator Installers and Repairers;0;474021;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+47403100;Fence Erectors;474031;Fence Erectors;0;474031;7119;7129;514325;Trabalhador da manunteção de edificações
+47404100;Hazardous Materials Removal Workers;474041;Hazardous Materials Removal Workers;0;474041;7119;7129;514325;Trabalhador da manunteção de edificações
+47405100;Highway Maintenance Workers;474051;Highway Maintenance Workers;0;474051;9312;9312;991105;Conservador de ferrovias
+47406100;Rail-Track Laying and Maintenance Equipment Operators;474061;Rail-Track Laying and Maintenance Equipment Operators;0;474061;9312;9312;991105;Conservador de ferrovias
+47407100;Septic Tank Servicers and Sewer Pipe Cleaners;474071;Septic Tank Servicers and Sewer Pipe Cleaners;0;474071;9129;9142;514305;Limpador de janelas
+47409100;Segmental Pavers;474091;Segmental Pavers;0;474091;7114;7123;715310;Moldador de corpos de prova em usina de concreto
+47409900;Construction and Related Workers, All Other;474099;Construction and Related Workers, All Other;0;474099;7119;7129;514325;Trabalhador da manunteção de edificações
+47409903;Weatherization Installers and Technicians;474099;Construction and Related Workers, All Other;0;474099;7119;7129;514325;Trabalhador da manunteção de edificações
+47501100;Derrick Operators, Oil and Gas;475011;Derrick Operators, Oil and Gas;0;475011;8113;8113;711315;Sondador (poços de petróleo e gás)
+47501200;Rotary Drill Operators, Oil and Gas;475012;Rotary Drill Operators, Oil and Gas;0;475012;8113;8113;711315;Sondador (poços de petróleo e gás)
+47501300;Service Unit Operators, Oil and Gas;475013;Service Unit Operators, Oil and Gas;0;475013;8113;8113;711315;Sondador (poços de petróleo e gás)
+47502200;Excavating and Loading Machine and Dragline Operators, Surface Mining;475022;Excavating and Loading Machine and Dragline Operators, Surface Mining;0;537032;8111;7111;711125;Escorador de minas
+47502300;Earth Drillers, Except Oil and Gas;475023;Earth Drillers, Except Oil and Gas;0;475021;8111;7111;711125;Escorador de minas
+47503200;Explosives Workers, Ordnance Handling Experts, and Blasters;475032;Explosives Workers, Ordnance Handling Experts, and Blasters;0;475021;8111;7111;711125;Escorador de minas
+47504100;Continuous Mining Machine Operators;475041;Continuous Mining Machine Operators;0;475041;8111;7111;711125;Escorador de minas
+47504300;Roof Bolters, Mining;475043;Roof Bolters, Mining;0;475061;8111;7111;711125;Escorador de minas
+47504400;Loading and Moving Machine Operators, Underground Mining;475044;Loading and Moving Machine Operators, Underground Mining;0;537033;8111;7111;711125;Escorador de minas
+47504900;Underground Mining Machine Operators, All Other;475049;Underground Mining Machine Operators, All Other;0;475042;8111;7111;711125;Escorador de minas
+47505100;Rock Splitters, Quarry;475051;Rock Splitters, Quarry;0;475051;8111;7111;711125;Escorador de minas
+47507100;Roustabouts, Oil and Gas;475071;Roustabouts, Oil and Gas;0;475071;8113;8113;711315;Sondador (poços de petróleo e gás)
+47508100;Helpers--Extraction Workers;475081;Helpers--Extraction Workers;0;475081;9311;9311;711405;Garimpeiro
+47509900;Extraction Workers, All Other;475099;Extraction Workers, All Other;0;475049;8111;7111;711125;Escorador de minas
+49101100;First-Line Supervisors of Mechanics, Installers, and Repairers;491011;First-Line Supervisors of Mechanics, Installers, and Repairers;0;491011;7127;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49201100;Computer, Automated Teller, and Office Machine Repairers;492011;Computer, Automated Teller, and Office Machine Repairers;0;492011;7421;7242;#N/D;#N/D
+49202100;Radio, Cellular, and Tower Equipment Installers and Repairers;492021;Radio, Cellular, and Tower Equipment Installers and Repairers;0;492021;7422;7242;#N/D;#N/D
+49202200;Telecommunications Equipment Installers and Repairers, Except Line Installers;492022;Telecommunications Equipment Installers and Repairers, Except Line Installers;0;492022;7422;7242;#N/D;#N/D
+49209100;Avionics Technicians;492091;Avionics Technicians;0;492091;7421;7242;#N/D;#N/D
+49209200;Electric Motor, Power Tool, and Related Repairers;492092;Electric Motor, Power Tool, and Related Repairers;0;492092;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49209300;Electrical and Electronics Installers and Repairers, Transportation Equipment;492093;Electrical and Electronics Installers and Repairers, Transportation Equipment;0;492093;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49209400;Electrical and Electronics Repairers, Commercial and Industrial Equipment;492094;Electrical and Electronics Repairers, Commercial and Industrial Equipment;0;492094;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49209500;Electrical and Electronics Repairers, Powerhouse, Substation, and Relay;492095;Electrical and Electronics Repairers, Powerhouse, Substation, and Relay;0;492095;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49209600;Electronic Equipment Installers and Repairers, Motor Vehicles;492096;Electronic Equipment Installers and Repairers, Motor Vehicles;0;492096;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49209700;Audiovisual Equipment Installers and Repairers;492097;Audiovisual Equipment Installers and Repairers;0;492097;7422;7242;#N/D;#N/D
+49209800;Security and Fire Alarm Systems Installers;492098;Security and Fire Alarm Systems Installers;0;492098;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49301100;Aircraft Mechanics and Service Technicians;493011;Aircraft Mechanics and Service Technicians;0;493011;7232;7232;914105;Mecânico de manutenção de aeronaves
+49302100;Automotive Body and Related Repairers;493021;Automotive Body and Related Repairers;0;493021;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49302200;Automotive Glass Installers and Repairers;493022;Automotive Glass Installers and Repairers;0;493022;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49302300;Automotive Service Technicians and Mechanics;493023;Automotive Service Technicians and Mechanics;0;493023;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49303100;Bus and Truck Mechanics and Diesel Engine Specialists;493031;Bus and Truck Mechanics and Diesel Engine Specialists;0;493031;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49304100;Farm Equipment Mechanics and Service Technicians;493041;Farm Equipment Mechanics and Service Technicians;0;493041;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49304200;Mobile Heavy Equipment Mechanics, Except Engines;493042;Mobile Heavy Equipment Mechanics, Except Engines;0;493042;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49304300;Rail Car Repairers;493043;Rail Car Repairers;0;493043;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49305100;Motorboat Mechanics and Service Technicians;493051;Motorboat Mechanics and Service Technicians;0;493051;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49305200;Motorcycle Mechanics;493052;Motorcycle Mechanics;0;493052;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49305300;Outdoor Power Equipment and Other Small Engine Mechanics;493053;Outdoor Power Equipment and Other Small Engine Mechanics;0;493053;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49309100;Bicycle Repairers;493091;Bicycle Repairers;0;493091;7234;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49309200;Recreational Vehicle Service Technicians;493092;Recreational Vehicle Service Technicians;0;493092;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49309300;Tire Repairers and Changers;493093;Tire Repairers and Changers;0;493093;7231;7231;914405;Mecânico de manutenção de automóveis motocicletas e veículos similares
+49901100;Mechanical Door Repairers;499011;Mechanical Door Repairers;0;499011;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49901200;Control and Valve Installers and Repairers, Except Mechanical Door;499012;Control and Valve Installers and Repairers, Except Mechanical Door;0;499012;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49902100;Heating, Air Conditioning, and Refrigeration Mechanics and Installers;499021;Heating, Air Conditioning, and Refrigeration Mechanics and Installers;0;499021;7127;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49903100;Home Appliance Repairers;499031;Home Appliance Repairers;0;499031;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49904100;Industrial Machinery Mechanics;499041;Industrial Machinery Mechanics;0;499041;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49904300;Maintenance Workers, Machinery;499043;Maintenance Workers, Machinery;0;499043;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49904400;Millwrights;499044;Millwrights;0;499044;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49904500;Refractory Materials Repairers, Except Brickmasons;499045;Refractory Materials Repairers, Except Brickmasons;0;499045;7112;7122;715230;Pedreiro de edificações
+49905100;Electrical Power-Line Installers and Repairers;499051;Electrical Power-Line Installers and Repairers;0;499051;7413;7245;732120;Instalador  de  linhas  elétricas  de alta e baixa tensão (rede aérea)
+49905200;Telecommunications Line Installers and Repairers;499052;Telecommunications Line Installers and Repairers;0;499052;7422;7242;#N/D;#N/D
+49906100;Camera and Photographic Equipment Repairers;499061;Camera and Photographic Equipment Repairers;0;499061;7311;7311;741120;Relojoeiro (fabricação)
+49906200;Medical Equipment Repairers;499062;Medical Equipment Repairers;0;499062;7311;7311;741120;Relojoeiro (fabricação)
+49906300;Musical Instrument Repairers and Tuners;499063;Musical Instrument Repairers and Tuners;0;499063;7312;7312;742115;Confeccionador de instrumentos de corda
+49906400;Watch and Clock Repairers;499064;Watch and Clock Repairers;0;499064;7311;7311;741120;Relojoeiro (fabricação)
+49906900;Precision Instrument and Equipment Repairers, All Other;499069;Precision Instrument and Equipment Repairers, All Other;0;499069;7311;7311;741120;Relojoeiro (fabricação)
+49907100;Maintenance and Repair Workers, General;499071;Maintenance and Repair Workers, General;0;499071;9622;9162;514205;Lixeiro
+49908100;Wind Turbine Service Technicians;499081;Wind Turbine Service Technicians;0;499081;7233;7233;725015;Ajustador  mecânico  (usinagem em bancada e em máquinas-ferramentas)
+49909100;Coin, Vending, and Amusement Machine Servicers and Repairers;499091;Coin, Vending, and Amusement Machine Servicers and Repairers;0;499091;9623;9153;519940;Distribuidor (coletor de fichas telefônicas)
+49909200;Commercial Divers;499092;Commercial Divers;0;499092;7541;6152;341225;Patrão de pesca regional
+49909400;Locksmiths and Safe Repairers;499094;Locksmiths and Safe Repairers;0;499094;7222;7222;721105;Ferramenteiro
+49909500;Manufactured Building and Mobile Home Installers;499095;Manufactured Building and Mobile Home Installers;0;499095;7119;7129;514325;Trabalhador da manunteção de edificações
+49909600;Riggers;499096;Riggers;0;499096;7215;7215;724605;Aparelhador de equipamentos  de  levantamento
+49909700;Signal and Track Switch Repairers;499097;Signal and Track Switch Repairers;0;499097;7412;7241;954205;Reparador de aparelhos eletrodomésticos
+49909800;Helpers--Installation, Maintenance, and Repair Workers;499098;Helpers--Installation, Maintenance, and Repair Workers;0;499098;9622;9162;514205;Lixeiro
+49909900;Installation, Maintenance, and Repair Workers, All Other;499099;Installation, Maintenance, and Repair Workers, All Other;0;499093;7533;7436;763210;Costureiro
+49909901;Geothermal Technicians;499099;Installation, Maintenance, and Repair Workers, All Other;0;499093;7533;7436;763210;Costureiro
+51101100;First-Line Supervisors of Production and Operating Workers;511011;First-Line Supervisors of Production and Operating Workers;0;511011;3122;8171;#N/D;#N/D
+51201100;Aircraft Structure, Surfaces, Rigging, and Systems Assemblers;512011;Aircraft Structure, Surfaces, Rigging, and Systems Assemblers;0;512011;8211;8281;725305;Montador de equipamento de levantamento
+51202100;Coil Winders, Tapers, and Finishers;512021;Coil Winders, Tapers, and Finishers;0;512021;8212;8282;731130;Montador de equipamentos elétricos (motores e dínamos)
+51202200;Electrical and Electronic Equipment Assemblers;512022;Electrical and Electronic Equipment Assemblers;0;512022;8212;8282;731130;Montador de equipamentos elétricos (motores e dínamos)
+51202300;Electromechanical Equipment Assemblers;512023;Electromechanical Equipment Assemblers;0;512023;8212;8282;731130;Montador de equipamentos elétricos (motores e dínamos)
+51203100;Engine and Other Machine Assemblers;512031;Engine and Other Machine Assemblers;0;512031;8211;8281;725305;Montador de equipamento de levantamento
+51204100;Structural Metal Fabricators and Fitters;512041;Structural Metal Fabricators and Fitters;0;512041;7214;7214;724225;Riscador de chapas
+51205100;Fiberglass Laminators and Fabricators;512051;Fiberglass Laminators and Fabricators;0;512091;8142;8232;811770;Moldador de plástico (por injeção)
+51206100;Timing Device Assemblers and Adjusters;512061;Timing Device Assemblers and Adjusters;0;512093;8212;8282;731130;Montador de equipamentos elétricos (motores e dínamos)
+51209200;Team Assemblers;512092;Team Assemblers;0;512092;8219;8284;811710;Calandrista de borracha
+51209900;Assemblers and Fabricators, All Other;512099;Assemblers and Fabricators, All Other;0;512099;8219;8284;811710;Calandrista de borracha
+51301100;Bakers;513011;Bakers;0;513011;7512;7412;848305;Padeiro
+51302100;Butchers and Meat Cutters;513021;Butchers and Meat Cutters;0;513021;7511;7411;848510;Açougueiro
+51302200;Meat, Poultry, and Fish Cutters and Trimmers;513022;Meat, Poultry, and Fish Cutters and Trimmers;0;513022;7511;7411;848510;Açougueiro
+51302300;Slaughterers and Meat Packers;513023;Slaughterers and Meat Packers;0;513023;7511;7411;848510;Açougueiro
+51309100;Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders;513091;Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders;0;513091;8160;8271;841428;Cozinhador de pescado
+51309200;Food Batchmakers;513092;Food Batchmakers;0;513092;8160;8271;841428;Cozinhador de pescado
+51309300;Food Cooking Machine Operators and Tenders;513093;Food Cooking Machine Operators and Tenders;0;513093;7514;7414;#N/D;#N/D
+51309900;Food Processing Workers, All Other;513099;Food Processing Workers, All Other;0;513099;7514;7414;#N/D;#N/D
+51402100;Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic;514021;Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic;0;514021;7223;7223;721215;Furador
+51402200;Forging Machine Setters, Operators, and Tenders, Metal and Plastic;514022;Forging Machine Setters, Operators, and Tenders, Metal and Plastic;0;514022;7223;7223;721215;Furador
+51402300;Rolling Machine Setters, Operators, and Tenders, Metal and Plastic;514023;Rolling Machine Setters, Operators, and Tenders, Metal and Plastic;0;514023;7223;7223;721215;Furador
+51403100;Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic;514031;Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic;0;514031;7223;7223;721215;Furador
+51403200;Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic;514032;Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic;0;514032;7223;7223;721215;Furador
+51403300;Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic;514033;Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic;0;514033;7223;7223;721215;Furador
+51403400;Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic;514034;Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic;0;514034;7223;7223;721215;Furador
+51403500;Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic;514035;Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic;0;514035;7223;7223;721215;Furador
+51404100;Machinists;514041;Machinists;0;514041;7223;7223;721215;Furador
+51405100;Metal-Refining Furnace Operators and Tenders;514051;Metal-Refining Furnace Operators and Tenders;0;514051;3135;8121;821240;Operador de recebimento de gusa
+51405200;Pourers and Casters, Metal;514052;Pourers and Casters, Metal;0;514052;8121;8121;821240;Operador de recebimento de gusa
+51406100;Model Makers, Metal and Plastic;514061;Model Makers, Metal and Plastic;0;514061;7222;7222;721105;Ferramenteiro
+51406200;Patternmakers, Metal and Plastic;514062;Patternmakers, Metal and Plastic;0;514062;7222;7222;721105;Ferramenteiro
+51407100;Foundry Mold and Coremakers;514071;Foundry Mold and Coremakers;0;514071;7211;7211;722325;Operador de equipamento de preparação de areia
+51407200;Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic;514072;Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic;0;514072;7211;7211;722325;Operador de equipamento de preparação de areia
+51408100;Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic;514081;Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic;0;514081;7223;7223;721215;Furador
+51411100;Tool and Die Makers;514111;Tool and Die Makers;0;514111;7222;7222;721105;Ferramenteiro
+51412100;Welders, Cutters, Solderers, and Brazers;514121;Welders, Cutters, Solderers, and Brazers;0;514121;7212;7212;724320;Soldador à oxigás
+51412200;Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders;514122;Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders;0;514122;7212;7212;724320;Soldador à oxigás
+51419100;Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic;514191;Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic;0;514191;8121;8121;821240;Operador de recebimento de gusa
+51419200;Layout Workers, Metal and Plastic;514192;Layout Workers, Metal and Plastic;0;514192;7213;7213;724225;Riscador de chapas
+51419300;Plating Machine Setters, Operators, and Tenders, Metal and Plastic;514193;Plating Machine Setters, Operators, and Tenders, Metal and Plastic;0;514193;8122;8223;723215;Galvanizador
+51419400;Tool Grinders, Filers, and Sharpeners;514194;Tool Grinders, Filers, and Sharpeners;0;514194;7224;7224;721325;Polidor de metais
+51419900;Metal Workers and Plastic Workers, All Other;514199;Metal Workers and Plastic Workers, All Other;0;514199;7223;7223;721215;Furador
+51511100;Prepress Technicians and Workers;515111;Prepress Technicians and Workers;0;515111;7321;7341;768615;Compositor manual
+51511200;Printing Press Operators;515112;Printing Press Operators;0;515112;7322;7341;768615;Compositor manual
+51511300;Print Binding and Finishing Workers;515113;Print Binding and Finishing Workers;0;515113;7323;7345;766315;Encadernador
+51601100;Laundry and Dry-Cleaning Workers;516011;Laundry and Dry-Cleaning Workers;0;516011;8157;8264;516315;Lavadeiro de tapetes
+51602100;Pressers, Textile, Garment, and Related Materials;516021;Pressers, Textile, Garment, and Related Materials;0;516021;9121;9133;#N/D;#N/D
+51603100;Sewing Machine Operators;516031;Sewing Machine Operators;0;516031;8153;8263;#N/D;#N/D
+51604100;Shoe and Leather Workers and Repairers;516041;Shoe and Leather Workers and Repairers;0;516041;7318;7332;768105;Tecelão (tear manual)
+51604200;Shoe Machine Operators and Tenders;516042;Shoe Machine Operators and Tenders;0;516042;8156;8266;#N/D;#N/D
+51605100;Sewers, Hand;516051;Sewers, Hand;0;516051;7533;7436;763210;Costureiro
+51605200;Tailors, Dressmakers, and Custom Sewers;516052;Tailors, Dressmakers, and Custom Sewers;0;516052;7531;7433;763005;Alfaiate
+51606100;Textile Bleaching and Dyeing Machine Operators and Tenders;516061;Textile Bleaching and Dyeing Machine Operators and Tenders;0;516061;8154;8264;516315;Lavadeiro de tapetes
+51606200;Textile Cutting Machine Setters, Operators, and Tenders;516062;Textile Cutting Machine Setters, Operators, and Tenders;0;516062;7532;7435;318810;Modelista de roupa
+51606300;Textile Knitting and Weaving Machine Setters, Operators, and Tenders;516063;Textile Knitting and Weaving Machine Setters, Operators, and Tenders;0;516063;8152;7432;768120;Redeiro
+51606400;Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders;516064;Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders;0;516064;8151;8261;761205;Operador de misturador e fibras
+51609100;Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers;516091;Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers;0;516091;8181;8131;823240;Operador de máquina de soprar vidro
+51609200;Fabric and Apparel Patternmakers;516092;Fabric and Apparel Patternmakers;0;516092;7532;7435;318810;Modelista de roupa
+51609300;Upholsterers;516093;Upholsterers;0;516093;7534;7437;765235;Estofador de móveis
+51609900;Textile, Apparel, and Furnishings Workers, All Other;516099;Textile, Apparel, and Furnishings Workers, All Other;0;516099;7535;7441;762105;Classificador de couros e peles
+51701100;Cabinetmakers and Bench Carpenters;517011;Cabinetmakers and Bench Carpenters;0;517011;7522;7422;775110;Folheador de móveis de madeira
+51702100;Furniture Finishers;517021;Furniture Finishers;0;517021;7522;7422;775110;Folheador de móveis de madeira
+51703100;Model Makers, Wood;517031;Model Makers, Wood;0;517031;7522;7422;775110;Folheador de móveis de madeira
+51703200;Patternmakers, Wood;517032;Patternmakers, Wood;0;517032;7522;7422;775110;Folheador de móveis de madeira
+51704100;Sawing Machine Setters, Operators, and Tenders, Wood;517041;Sawing Machine Setters, Operators, and Tenders, Wood;0;517041;8172;8141;773110;Operador de serras
+51704200;Woodworking Machine Setters, Operators, and Tenders, Except Sawing;517042;Woodworking Machine Setters, Operators, and Tenders, Except Sawing;0;517042;7523;7423;773340;Operador de serras (lavra de madeira)
+51709900;Woodworkers, All Other;517099;Woodworkers, All Other;0;517099;7317;#N/D;#N/D;#N/D
+51801100;Nuclear Power Reactor Operators;518011;Nuclear Power Reactor Operators;0;518011;3131;8161;861115;Operador de central termelétrica
+51801200;Power Distributors and Dispatchers;518012;Power Distributors and Dispatchers;0;518012;3131;8161;861115;Operador de central termelétrica
+51801300;Power Plant Operators;518013;Power Plant Operators;0;518013;3131;8161;861115;Operador de central termelétrica
+51801303;Biomass Plant Technicians;518013;Power Plant Operators;0;518013;3131;8161;861115;Operador de central termelétrica
+51801304;Hydroelectric Plant Technicians;518013;Power Plant Operators;0;518013;3131;8161;861115;Operador de central termelétrica
+51802100;Stationary Engineers and Boiler Operators;518021;Stationary Engineers and Boiler Operators;0;518021;8182;8162;862120;Operador de caldeira
+51803100;Water and Wastewater Treatment Plant and System Operators;518031;Water and Wastewater Treatment Plant and System Operators;0;518031;3132;8163;862130;Operador de compressor de ar
+51809100;Chemical Plant and System Operators;518091;Chemical Plant and System Operators;0;518091;3133;3116;301115;Técnico de laboratório de análises físico-químicas (petróleo)
+51809200;Gas Plant Operators;518092;Gas Plant Operators;0;518092;3134;8155;811335;Operador de  filtros  de   parafina   (tratamentos químicos e afins)
+51809300;Petroleum Pump System Operators, Refinery Operators, and Gaugers;518093;Petroleum Pump System Operators, Refinery Operators, and Gaugers;0;518093;3134;8155;811335;Operador de  filtros  de   parafina   (tratamentos químicos e afins)
+51809900;Plant and System Operators, All Other;518099;Plant and System Operators, All Other;0;518099;3132;8163;862130;Operador de compressor de ar
+51809901;Biofuels Processing Technicians;518099;Plant and System Operators, All Other;0;518099;3132;8163;862130;Operador de compressor de ar
+51901100;Chemical Equipment Operators and Tenders;519011;Chemical Equipment Operators and Tenders;0;519011;8131;8151;811115;Operadores  de  britadeira (tratamentos químicos e afins)
+51901200;Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders;519012;Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders;0;519012;7513;7413;848215;Manteigueiro
+51902100;Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders;519021;Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders;0;519021;8112;8112;712105;Moleiro de minérios
+51902200;Grinding and Polishing Workers, Hand;519022;Grinding and Polishing Workers, Hand;0;519022;7224;7224;721325;Polidor de metais
+51902300;Mixing and Blending Machine Setters, Operators, and Tenders;519023;Mixing and Blending Machine Setters, Operators, and Tenders;0;519023;8114;8212;823325;Trabalhador   da  elaboração   de   pré-fabricados (concreto armado)
+51903100;Cutters and Trimmers, Hand;519031;Cutters and Trimmers, Hand;0;519031;7315;7322;752115;Soprador de vidro
+51903200;Cutting and Slicing Machine Setters, Operators, and Tenders;519032;Cutting and Slicing Machine Setters, Operators, and Tenders;0;519032;8114;8212;823325;Trabalhador   da  elaboração   de   pré-fabricados (concreto armado)
+51904100;Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders;519041;Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders;0;519041;8141;8231;811705;Bamburista
+51905100;Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders;519051;Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders;0;519051;8141;8231;811705;Bamburista
+51906100;Inspectors, Testers, Sorters, Samplers, and Weighers;519061;Inspectors, Testers, Sorters, Samplers, and Weighers;0;519061;7543;3152;391205;Inspetor de qualidade
+51907100;Jewelers and Precious Stone and Metal Workers;519071;Jewelers and Precious Stone and Metal Workers;0;519071;7313;7313;751015;Joalheiro (reparações)
+51907106;Gem and Diamond Workers;519071;Jewelers and Precious Stone and Metal Workers;0;519071;7313;7313;751015;Joalheiro (reparações)
+51908100;Dental Laboratory Technicians;519081;Dental Laboratory Technicians;0;519081;3214;3226;223605;Fisioterapeuta
+51908200;Medical Appliance Technicians;519082;Medical Appliance Technicians;0;519082;3214;3226;223605;Fisioterapeuta
+51908300;Ophthalmic Laboratory Technicians;519083;Ophthalmic Laboratory Technicians;0;519083;7549;7322;752115;Soprador de vidro
+51911100;Packaging and Filling Machine Operators and Tenders;519111;Packaging and Filling Machine Operators and Tenders;0;519111;8183;8290;784115;Operador de máquina de etiquetar
+51912300;Painting, Coating, and Decorating Workers;519123;Painting, Coating, and Decorating Workers;0;519123;7316;7323;#N/D;#N/D
+51912400;Coating, Painting, and Spraying Machine Setters, Operators, and Tenders;519124;Coating, Painting, and Spraying Machine Setters, Operators, and Tenders;0;519121;8122;8223;723215;Galvanizador
+51914100;Semiconductor Processing Technicians;519141;Semiconductor Processing Technicians;0;519141;8189;8290;784115;Operador de máquina de etiquetar
+51915100;Photographic Process Workers and Processing Machine Operators;519151;Photographic Process Workers and Processing Machine Operators;0;519151;8132;7344;766415;Revelador de filmes fotográficos em cores
+51916100;Computer Numerically Controlled Tool Operators;519161;Computer Numerically Controlled Tool Operators;0;514011;7223;7223;721215;Furador
+51916200;Computer Numerically Controlled Tool Programmers;519162;Computer Numerically Controlled Tool Programmers;0;514012;3139;3123;#N/D;#N/D
+51919100;Adhesive Bonding Machine Operators and Tenders;519191;Adhesive Bonding Machine Operators and Tenders;0;519191;7521;7421;772115;Secador de madeira
+51919200;Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders;519192;Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders;0;519192;8171;8142;831115;Triturador de madeira
+51919300;Cooling and Freezing Equipment Operators and Tenders;519193;Cooling and Freezing Equipment Operators and Tenders;0;519193;8160;8271;841428;Cozinhador de pescado
+51919400;Etchers and Engravers;519194;Etchers and Engravers;0;519194;7316;7323;#N/D;#N/D
+51919500;Molders, Shapers, and Casters, Except Metal and Plastic;519195;Molders, Shapers, and Casters, Except Metal and Plastic;0;519195;7314;7321;752320;Ceramista (modelador)
+51919503;Stone Cutters and Carvers, Manufacturing;519195;Molders, Shapers, and Casters, Except Metal and Plastic;0;519195;7314;7321;752320;Ceramista (modelador)
+51919504;Glass Blowers, Molders, Benders, and Finishers;519195;Molders, Shapers, and Casters, Except Metal and Plastic;0;519195;7314;7321;752320;Ceramista (modelador)
+51919505;Potters, Manufacturing;519195;Molders, Shapers, and Casters, Except Metal and Plastic;0;519195;7314;7321;752320;Ceramista (modelador)
+51919600;Paper Goods Machine Setters, Operators, and Tenders;519196;Paper Goods Machine Setters, Operators, and Tenders;0;519196;8171;8142;831115;Triturador de madeira
+51919700;Tire Builders;519197;Tire Builders;0;519197;8141;8231;811705;Bamburista
+51919800;Helpers--Production Workers;519198;Helpers--Production Workers;0;519198;9329;9321;784205;Alimentador de linha de produção
+51919900;Production Workers, All Other;519199;Production Workers, All Other;0;519199;9329;9321;784205;Alimentador de linha de produção
+53104100;Aircraft Cargo Handling Supervisors;531041;Aircraft Cargo Handling Supervisors;0;531011;9333;9333;783220;Estivador
+53104200;First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand;531042;First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand;0;531021;9333;9333;783220;Estivador
+53104201;Recycling Coordinators;531042;First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand;0;531021;9333;9333;783220;Estivador
+53104300;First-Line Supervisors of Material-Moving Machine and Vehicle Operators;531043;First-Line Supervisors of Material-Moving Machine and Vehicle Operators;0;531031;3151;3141;215210;Primeiro oficial-maquinista (embarcações)
+53104400;First-Line Supervisors of Passenger Attendants;531044;First-Line Supervisors of Passenger Attendants;0;391021;3423;3340;215315;Instrutor de vôo
+53104900;First-Line Supervisors of Transportation Workers, All Other;531049;First-Line Supervisors of Transportation Workers, All Other;0;531031;3151;3141;215210;Primeiro oficial-maquinista (embarcações)
+53201100;Airline Pilots, Copilots, and Flight Engineers;532011;Airline Pilots, Copilots, and Flight Engineers;0;532011;3153;3143;215305;Piloto comercial (linhas aéreas)
+53201200;Commercial Pilots;532012;Commercial Pilots;0;532012;3153;3143;215305;Piloto comercial (linhas aéreas)
+53202100;Air Traffic Controllers;532021;Air Traffic Controllers;0;532021;3154;3144;342505;Controlador de tráfego aéreo
+53202200;Airfield Operations Specialists;532022;Airfield Operations Specialists;0;532022;315;#N/D;#N/D;#N/D
+53203100;Flight Attendants;532031;Flight Attendants;0;532031;5111;5111;511115;Intendente de bordo (embarcações)
+53301100;Ambulance Drivers and Attendants, Except Emergency Medical Technicians;533011;Ambulance Drivers and Attendants, Except Emergency Medical Technicians;0;533011;8322;8322;782315;Motorista de táxi
+53303100;Driver/Sales Workers;533031;Driver/Sales Workers;0;533031;8322;8322;782315;Motorista de táxi
+53303200;Heavy and Tractor-Trailer Truck Drivers;533032;Heavy and Tractor-Trailer Truck Drivers;0;533032;8332;8324;782510;Motorista de caminhão
+53303300;Light Truck Drivers;533033;Light Truck Drivers;0;533033;8322;8322;782315;Motorista de táxi
+53305100;Bus Drivers, School;533051;Bus Drivers, School;0;533022;8331;8323;782620;Condutor de bonde
+53305200;Bus Drivers, Transit and Intercity;533052;Bus Drivers, Transit and Intercity;0;533021;8331;8323;782620;Condutor de bonde
+53305300;Shuttle Drivers and Chauffeurs;533053;Shuttle Drivers and Chauffeurs;0;533022;8331;8323;782620;Condutor de bonde
+53305400;Taxi Drivers;533054;Taxi Drivers;0;533041;8322;8322;782315;Motorista de táxi
+53309900;Motor Vehicle Operators, All Other;533099;Motor Vehicle Operators, All Other;0;533099;8321;8321;519110;Motociclista (transporte de mercadorias)
+53401100;Locomotive Engineers;534011;Locomotive Engineers;0;534011;8311;8311;782610;Maquinista de trem
+53401300;Rail Yard Engineers, Dinkey Operators, and Hostlers;534013;Rail Yard Engineers, Dinkey Operators, and Hostlers;0;534013;8311;8311;782610;Maquinista de trem
+53402200;Railroad Brake, Signal, and Switch Operators and Locomotive Firers;534022;Railroad Brake, Signal, and Switch Operators and Locomotive Firers;0;534012;8311;8311;782610;Maquinista de trem
+53403100;Railroad Conductors and Yardmasters;534031;Railroad Conductors and Yardmasters;0;534031;8312;8312;783110;Agente de manobras (ferrovias)
+53404100;Subway and Streetcar Operators;534041;Subway and Streetcar Operators;0;534041;8311;8311;782610;Maquinista de trem
+53409900;Rail Transportation Workers, All Other;534099;Rail Transportation Workers, All Other;0;534099;8312;8312;783110;Agente de manobras (ferrovias)
+53501100;Sailors and Marine Oilers;535011;Sailors and Marine Oilers;0;535011;8350;8340;782705;Contramestre de embarcação
+53502100;Captains, Mates, and Pilots of Water Vessels;535021;Captains, Mates, and Pilots of Water Vessels;0;535021;3152;3142;215115;Comandante de embarcações (navegação marítima)
+53502200;Motorboat Operators;535022;Motorboat Operators;0;535022;8350;8340;782705;Contramestre de embarcação
+53503100;Ship Engineers;535031;Ship Engineers;0;535031;3151;3141;215210;Primeiro oficial-maquinista (embarcações)
+53601100;Bridge and Lock Tenders;536011;Bridge and Lock Tenders;0;536011;8343;8333;782130;Operador de ponte rolante
+53602100;Parking Attendants;536021;Parking Attendants;0;536021;9629;9152;510120;Chefe de portaria (hotel)
+53603100;Automotive and Watercraft Service Attendants;536031;Automotive and Watercraft Service Attendants;0;536031;5245;5220;521105;Vendedor de comércio atacadista
+53603200;Aircraft Service Attendants;536032;Aircraft Service Attendants;0;536099;9331;9331;782820;Condutor de veículos de pedais
+53604100;Traffic Technicians;536041;Traffic Technicians;0;536041;3119;3119;311615;Técnico têxtil (fiação)
+53605100;Transportation Inspectors;536051;Transportation Inspectors;0;536051;3257;3152;391205;Inspetor de qualidade
+53605101;Aviation Inspectors;536051;Transportation Inspectors;0;536051;3257;3152;391205;Inspetor de qualidade
+53605107;Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation;536051;Transportation Inspectors;0;536051;3257;3152;391205;Inspetor de qualidade
+53606100;Passenger Attendants;536061;Passenger Attendants;0;536061;5111;5111;511115;Intendente de bordo (embarcações)
+53609900;Transportation Workers, All Other;536099;Transportation Workers, All Other;0;536099;9331;9331;782820;Condutor de veículos de pedais
+53701100;Conveyor Operators and Tenders;537011;Conveyor Operators and Tenders;0;537011;8189;8290;784115;Operador de máquina de etiquetar
+53702100;Crane and Tower Operators;537021;Crane and Tower Operators;0;537021;8343;8333;782130;Operador de ponte rolante
+53703100;Dredge Operators;537031;Dredge Operators;0;537031;8342;8332;715115;Operador de escavadeiras
+53704100;Hoist and Winch Operators;537041;Hoist and Winch Operators;0;537041;8343;8333;782130;Operador de ponte rolante
+53705100;Industrial Truck and Tractor Operators;537051;Industrial Truck and Tractor Operators;0;537051;8344;8334;782220;Operador de empilhadeira
+53706100;Cleaners of Vehicles and Equipment;537061;Cleaners of Vehicles and Equipment;0;537061;9112;9132;513315;Camareiro (hotel)
+53706200;Laborers and Freight, Stock, and Material Movers, Hand;537062;Laborers and Freight, Stock, and Material Movers, Hand;0;537062;9329;9321;784205;Alimentador de linha de produção
+53706204;Recycling and Reclamation Workers;537062;Laborers and Freight, Stock, and Material Movers, Hand;0;537062;9329;9321;784205;Alimentador de linha de produção
+53706300;Machine Feeders and Offbearers;537063;Machine Feeders and Offbearers;0;537063;9329;9321;784205;Alimentador de linha de produção
+53706400;Packers and Packagers, Hand;537064;Packers and Packagers, Hand;0;537064;9321;9322;#N/D;#N/D
+53706500;Stockers and Order Fillers;537065;Stockers and Order Fillers;0;435081;4321;4131;414105;Almoxarife
+53707100;Gas Compressor and Gas Pumping Station Operators;537071;Gas Compressor and Gas Pumping Station Operators;0;537071;3134;8155;811335;Operador de  filtros  de   parafina   (tratamentos químicos e afins)
+53707200;Pump Operators, Except Wellhead Pumpers;537072;Pump Operators, Except Wellhead Pumpers;0;537072;3132;8163;862130;Operador de compressor de ar
+53707300;Wellhead Pumpers;537073;Wellhead Pumpers;0;537073;8113;8113;711315;Sondador (poços de petróleo e gás)
+53708100;Refuse and Recyclable Material Collectors;537081;Refuse and Recyclable Material Collectors;0;537081;9611;9161;514215;Gari
+53712100;Tank Car, Truck, and Ship Loaders;537121;Tank Car, Truck, and Ship Loaders;0;537121;9333;9333;783220;Estivador
+53719900;Material Moving Workers, All Other;537199;Material Moving Workers, All Other;0;537032;8111;7111;711125;Escorador de minas
+55101100;Air Crew Officers;551011;Air Crew Officers;0;551011;110;110;20105;Oficial superior
+55101200;Aircraft Launch and Recovery Officers;551012;Aircraft Launch and Recovery Officers;0;551012;110;110;20105;Oficial superior
+55101300;Armored Assault Vehicle Officers;551013;Armored Assault Vehicle Officers;0;551013;110;110;20105;Oficial superior
+55101400;Artillery and Missile Officers;551014;Artillery and Missile Officers;0;551014;110;110;20105;Oficial superior
+55101500;Command and Control Center Officers;551015;Command and Control Center Officers;0;551015;110;110;20105;Oficial superior
+55101600;Infantry Officers;551016;Infantry Officers;0;551016;110;110;20105;Oficial superior
+55101700;Special Forces Officers;551017;Special Forces Officers;0;551017;110;110;20105;Oficial superior
+55101900;Military Officer Special and Tactical Operations Leaders, All Other;551019;Military Officer Special and Tactical Operations Leaders, All Other;0;551019;110;110;20105;Oficial superior
+55201100;First-Line Supervisors of Air Crew Members;552011;First-Line Supervisors of Air Crew Members;0;552011;210;110;20105;Oficial superior
+55201200;First-Line Supervisors of Weapons Specialists/Crew Members;552012;First-Line Supervisors of Weapons Specialists/Crew Members;0;552012;210;110;20105;Oficial superior
+55201300;First-Line Supervisors of All Other Tactical Operations Specialists;552013;First-Line Supervisors of All Other Tactical Operations Specialists;0;552013;210;110;20105;Oficial superior
+55301100;Air Crew Members;553011;Air Crew Members;0;553011;310;110;20105;Oficial superior
+55301200;Aircraft Launch and Recovery Specialists;553012;Aircraft Launch and Recovery Specialists;0;553012;310;110;20105;Oficial superior
+55301300;Armored Assault Vehicle Crew Members;553013;Armored Assault Vehicle Crew Members;0;553013;310;110;20105;Oficial superior
+55301400;Artillery and Missile Crew Members;553014;Artillery and Missile Crew Members;0;553014;310;110;20105;Oficial superior
+55301500;Command and Control Center Specialists;553015;Command and Control Center Specialists;0;553015;310;110;20105;Oficial superior
+55301600;Infantry;553016;Infantry;0;553016;310;110;20105;Oficial superior
+55301800;Special Forces;553018;Special Forces;0;553018;310;110;20105;Oficial superior
+55301900;Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other;553019;Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other;0;553019;310;110;20105;Oficial superior
