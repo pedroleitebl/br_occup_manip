@@ -1,0 +1,107 @@
+---
+title: "conversao_scn_cnae"
+output: html_document
+date: "2024-07-31"
+---
+
+```{r}
+library(dplyr)
+library(readr)
+library(here)
+```
+
+```{r}
+cnae_2 = read_csv(here("data/cnae_2.csv")) #Upando o arquivo que contém as especificações da CNAE 2.0
+cnae_2 = cnae_2 %>% 
+  select(subclasse, classe, descricao_subclasse) # Selecionando só as colunas de interesse
+
+# Criando um data.frame a partir do documento de conversão do IBGE. Ao verificar o documento, perceba que uma atividade do sistema de contas nacionais possui diversas classes na CNAE 2.0. De acordo com o documento, não há repetições de classes em outras atividades.
+
+cnae_2_scn = cnae_2 %>% 
+  mutate(ativ_scn = case_when(
+    substr(classe, 1, 3) %in% c("011", "012", "013", "014") ~ "0191",
+    substr(classe, 1, 4) %in% c("0161", "0163") ~ "0191",
+    substr(classe, 1, 3) %in% c("015", "017") | substr(classe, 1, 4) == "0162" ~ "0192",
+    substr(classe, 1, 2) %in% c("02", "03") ~ "0280",
+    substr(classe, 1, 2) %in% c("05", "08") ~ "0580",
+    substr(classe, 1, 2) %in% c("06", "09") ~ "0680",
+    substr(classe, 1, 3) == "071" ~ "0791",
+    substr(classe, 1, 3) == "072" ~ "0792",
+    substr(classe, 1, 3) %in% c("101", "102", "105") ~ "1091",
+    substr(classe, 1, 3) == "107" ~ "1092",
+    substr(classe, 1, 3) %in% c("103", "104", "106", "108", "109") ~ "1093",
+    substr(classe, 1, 2) == "11" ~ "1100",
+    substr(classe, 1, 2) == "12" ~ "1200",
+    substr(classe, 1, 2) == "13" ~ "1300",
+    substr(classe, 1, 2) == "14" ~ "1400",
+    substr(classe, 1, 2) == "15" ~ "1500",
+    substr(classe, 1, 2) == "16" ~ "1600",
+    substr(classe, 1, 2) == "17" ~ "1700",
+    substr(classe, 1, 2) == "18" ~ "1800",
+    substr(classe, 1, 3) %in% c("191", "192") ~ "1991",
+    substr(classe, 1, 3) == "193" ~ "1992",
+    substr(classe, 1, 3) %in% c("201", "202", "203", "204") ~ "2091",
+    substr(classe, 1, 3) %in% c("205", "207", "209") ~ "2092",
+    substr(classe, 1, 3) == "206" ~ "2093",
+    substr(classe, 1, 2) == "21" ~ "2100",
+    substr(classe, 1, 2) == "22" ~ "2200",
+    substr(classe, 1, 2) == "23" ~ "2300",
+    substr(classe, 1, 3) %in% c("241", "242", "243") ~ "2491",
+    substr(classe, 1, 3) %in% c("244", "245") ~ "2492",
+    substr(classe, 1, 2) == "25" ~ "2500",
+    substr(classe, 1, 2) == "26" ~ "2600",
+    substr(classe, 1, 2) == "27" ~ "2700",
+    substr(classe, 1, 2) == "28" ~ "2800",
+    substr(classe, 1, 3) %in% c("291", "292", "293") ~ "2991",
+    substr(classe, 1, 3) %in% c("294", "295") ~ "2992",
+    substr(classe, 1, 2) == "30" ~ "3000",
+    substr(classe, 1, 2) %in% c("31", "32") ~ "3180",
+    substr(classe, 1, 2) == "33" ~ "3300",
+    substr(classe, 1, 2) == "35" ~ "3500",
+    substr(classe, 1, 2) %in% c("36", "37", "38", "39") ~ "3680",
+    substr(classe, 1, 2) %in% c("41", "42", "43") ~ "4180",
+    substr(classe, 1, 2) == "45" ~ "4500",
+    substr(classe, 1, 2) %in% c("46", "47") ~ "4680",
+    substr(classe, 1, 2) == "49" ~ "4900",
+    substr(classe, 1, 2) == "50" ~ "5000",
+    substr(classe, 1, 2) == "51" ~ "5100",
+    substr(classe, 1, 2) %in% c("52", "53") ~ "5280",
+    substr(classe, 1, 2) == "55" ~ "5500",
+    substr(classe, 1, 2) == "56" ~ "5600",
+    substr(classe, 1, 2) == "58" ~ "5800",
+    substr(classe, 1, 2) %in% c("59", "60") ~ "5980",
+    substr(classe, 1, 2) == "61" ~ "6100",
+    substr(classe, 1, 2) %in% c("62", "63") ~ "6280",
+    substr(classe, 1, 2) %in% c("64", "65", "66") ~ "6480",
+    substr(classe, 1, 2) == "68" ~ "6800",
+    substr(classe, 1, 2) %in% c("69", "70") ~ "6980",
+    substr(classe, 1, 2) %in% c("71", "72") ~ "7180",
+    substr(classe, 1, 2) %in% c("73", "74", "75") ~ "7380",
+    substr(classe, 1, 2) == "77" ~ "7700",
+    substr(classe, 1, 2) %in% c("78", "79", "81", "82") ~ "7880",
+    substr(classe, 1, 2) == "80" ~ "8000",
+    substr(classe, 1, 2) == "84" ~ "8400",
+    substr(classe, 1, 2) == "85" ~ "8591",
+    substr(classe, 1, 2) == "85" ~ "8592",
+    substr(classe, 1, 2) %in% c("86", "87") ~ "8691",
+    substr(classe, 1, 2) %in% c("86", "87", "88") ~ "8692",
+    substr(classe, 1, 2) %in% c("90", "91", "92", "93") ~ "9080",
+    substr(classe, 1, 2) %in% c("94", "95", "96") ~ "9480",
+    substr(classe, 1, 2) == "97" ~ "9700",
+    TRUE ~ "0"
+  ))
+
+
+```
+
+```{r}
+cnae_dom = read_delim(here("data/cnae_domxcnae_2.csv"), delim = ";") # Subindo o arquivo de conversão da cnae domiciliar com a cnae 2.0 
+
+cnae_dom = subset(cnae_dom, nchar(cnae_dom$cnae20) >= 5)
+cnae_dom$classe = cnae_dom$cnae20 
+cnae_2_scn = left_join(cnae_2_scn, cnae_dom, by = "classe")
+
+ativ_scn = subset(cnae_2_scn, duplicated(cnae_2_scn$ativ_scn) == F) # Este arquivo é o referente a conversão final para os códigos de cnae 2.0 e cnae domiciliar. 
+
+```
+
